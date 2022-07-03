@@ -1,5 +1,3 @@
-![](https://media.giphy.com/media/9w4fXNDYQbOr6/giphy.gif)
-
 - [UX](#ux)
 - [Métodos e ferramentas: Estratégia de produto](#métodos-e-ferramentas-estratégia-de-produto)
   - [Pixar story telling](#pixar-story-telling)
