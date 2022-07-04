@@ -98,10 +98,7 @@ O que colocar na press release do futuro
 - O que faz os clientes amarem ( Na voz deles )
 - Como os usuários podem começar a utilizar o produto.
 
-<aside>
-💡 Utilizar quando você precisar deixar uma mensagem clara do que é o seu produto para os seus patrocinadores e stakeholders e quando quiser ajudar a equipe a trabalhar na mesma página.
-
-</aside>
+> 💡 Utilizar quando você precisar deixar uma mensagem clara do que é o seu produto para os seus patrocinadores e stakeholders e quando quiser ajudar a equipe a trabalhar na mesma página.
 
 ## Blue Sprint
 
@@ -109,10 +106,7 @@ Uma representação dos touchpoints entre usuário e produto ou serviço, bem co
 
 ![Untitled](images/Untitled.png)
 
-<aside>
-💡 Usar quando precisar melhorar um processo de uma experiência de serviço
-
-</aside>
+> 💡 Usar quando precisar melhorar um processo de uma experiência de serviço
 
 *Utilizado para*
 
@@ -140,10 +134,7 @@ Exemplos
 
 Entender o antes, durante e depois do usuário.
 
-<aside>
-💡 Mapa que mostra os passo do consumir ai usar um produto. Permite entender o que o usuário pensa, sente e o que ele consome para tomar decisões.
-
-</aside>
+> 💡 Mapa que mostra os passo do consumir ai usar um produto. Permite entender o que o usuário pensa, sente e o que ele consome para tomar decisões.
 
 - Identificar as entradas e saídas
 - Pensar com empatia
@@ -156,10 +147,7 @@ Entender o antes, durante e depois do usuário.
 
 Representação clara de todos os pontos de contato do usuário com sua marca ou produto. Busca identificar oportunidades de melhoria em pontos que muitas vezes não nos preocupamos.
 
-<aside>
-💡 Use Ecossistema quando precisar identificar todas as formas de interação do usuário com seu produto para não deixar nenhuma porta de entrada para insatisfações e más experiencias.
-
-</aside>
+> 💡 Use Ecossistema quando precisar identificar todas as formas de interação do usuário com seu produto para não deixar nenhuma porta de entrada para insatisfações e más experiencias.
 
 - Entender os pontos de contato do usuário com o seu produtos
 - Identificar oportunidades de melhoria na experiencia de forma abrangente
@@ -168,10 +156,7 @@ Representação clara de todos os pontos de contato do usuário com sua marca ou
 
 Caminho feliz
 
-<aside>
-💡 É o “caminho feliz” que o usuário percorre para realizar uma atividade. É a jornada do usuário que 90% dos usuários vão percorrer ao utilizar o produto.
-
-</aside>
+> 💡 É o “caminho feliz” que o usuário percorre para realizar uma atividade. É a jornada do usuário que 90% dos usuários vão percorrer ao utilizar o produto.
 
 - Detalhar a jornada chave do usuário
 - Melhorar o caminho mais rápido e principal para entrega de valor
@@ -210,17 +195,11 @@ Nosso produto `<Faz isso diferente>`
 
 ## Canvas da proposta de valor
 
-<aside>
-💡 Método para definir o que o produto é, para quem ele foi criado e como/quando ele será usado.
-
-</aside>
+> 💡 Método para definir o que o produto é, para quem ele foi criado e como/quando ele será usado.
 
 ![vpc.png](images/vpc.png)
 
-<aside>
-💡 Use a proposta de valor quando quiser explicar o motivo do seu usuário escolher o seu produto ou serviço entre outras alternativas que ele já tem.
-
-</aside>
+> 💡 Use a proposta de valor quando quiser explicar o motivo do seu usuário escolher o seu produto ou serviço entre outras alternativas que ele já tem.
 
 ## Benchmark
 
@@ -232,22 +211,13 @@ Análise de competidores que esclarece as funcionalidades comparando=as uns com 
 
 [https://www.gartner.com/en](https://www.gartner.com/en)
 
-<aside>
-💡 Da para utilizar o BenchMark para ter novas ideias, assim você conhece as funcionalidades dos competidores e busca fazer algo que os supere.
+> 💡 Da para utilizar o BenchMark para ter novas ideias, assim você conhece as funcionalidades dos competidores e busca fazer algo que os supere.
 
-</aside>
-
-<aside>
-💡 Utilize o benchmark quando quiser entender o que está sendo criado no mercado para identificar oportunidades de inovar
-
-</aside>
+> 💡 Utilize o benchmark quando quiser entender o que está sendo criado no mercado para identificar oportunidades de inovar
 
 ## Primeiro tweet
 
-<aside>
-💡 O “Primeiro Tweet” é um exercício inspirador que simula como seria o primeiro tweet de uma empresa depois que ela se tornasse pública para os usuários, levando em consideração a limitação do Twitter de 140 caracteres.
-
-</aside>
+> 💡 O “Primeiro Tweet” é um exercício inspirador que simula como seria o primeiro tweet de uma empresa depois que ela se tornasse pública para os usuários, levando em consideração a limitação do Twitter de 140 caracteres.
 
 - Inspirar a visão de forma simples
 - Entender o que realmente chama a atenção do usuário
@@ -260,16 +230,9 @@ Como fazer
 
 **Exemplo**
 
-<aside>
-💡 Tem dificuldade para saber a produtividade de seu time e o que fazer para melhorá-la?
-Conheça o raio-x detalhado da sua área no #stfdigital
+> 💡 Tem dificuldade para saber a produtividade de seu time e o que fazer para melhorá-la? Conheça o raio-x detalhado da sua área no #stfdigital
 
-</aside>
-
-<aside>
-💡 Use para gerar consenso no time sobre a visão do produto antes que iniciar exercícios de design thinking ou design sprints.
-
-</aside>
+> 💡 Use para gerar consenso no time sobre a visão do produto antes que iniciar exercícios de design thinking ou design sprints.
 
 ## Lightning talk
 
@@ -297,17 +260,11 @@ O lightninh talk é uma apresentação curta. Uma apresentação relampago. Vár
     - Conheça a tecnologia que vai usar
     - Fale devagar e fique atento as dúvidas
 
-<aside>
-💡 Usado quando precisa avaliar a viabilidade do negócio
-
-</aside>
+> 💡 Usado quando precisa avaliar a viabilidade do negócio
 
 ## Métricas
 
-<aside>
-💡 Métricas de negocio e de UX são utilizadas para saber se seu negócio está tendo o sucesso esperado.
-
-</aside>
+> 💡 Métricas de negocio e de UX são utilizadas para saber se seu negócio está tendo o sucesso esperado.
 
 - Entender o que pode ser medido
 - Alguns atalhos para medição
@@ -315,34 +272,22 @@ O lightninh talk é uma apresentação curta. Uma apresentação relampago. Vár
 
 *Para validar o que o usuário faz no seu site*
 
-<aside>
-💡 GOOGLE ANALYTICS - MIXPANEL
-
-</aside>
+> 💡 GOOGLE ANALYTICS - MIXPANEL
 
 # Métodos e ferramentas: Geração de ideias
 
 ## Double diamond
 
-<aside>
-💡 São etapas de ideação base do design thinking para viabilizar a geração de ideias, decidir o que é relevante, refinar as ideias e projetar uma solução.
-
-</aside>
+> 💡 São etapas de ideação base do design thinking para viabilizar a geração de ideias, decidir o que é relevante, refinar as ideias e projetar uma solução.
 
 - Gerar ideias de forma estruturada
 - Aguçar a criatividade
 - Trabalhar em equipe para constuir conhecimento
 - Entender de verdade o que as pessoas precisam
 
-<aside>
-💡 “A pergunta certa é geralmente main importante do que a resposta certa á pergunta errada” - Alvin Toffler
+> 💡 “A pergunta certa é geralmente main importante do que a resposta certa á pergunta errada” - Alvin Toffler
 
-</aside>
-
-<aside>
-💡 “Os nossos maiores problemas não estão nos obstáculos do caminho, mas na escolha da direção errada” - Augusto Cury
-
-</aside>
+> 💡 “Os nossos maiores problemas não estão nos obstáculos do caminho, mas na escolha da direção errada” - Augusto Cury
 
 ### 4 ETAPAS
 
@@ -355,17 +300,11 @@ O lightninh talk é uma apresentação curta. Uma apresentação relampago. Vár
 
 ![Untitled](images/Untitled%206.png)
 
-<aside>
-💡 Utilize o duplo diamente quando precisar gerar ideias que saiam do senso comum, mas sem se perder o rumo como sessões de brainstorming convenciaonais.
-
-</aside>
+> 💡 Utilize o duplo diamente quando precisar gerar ideias que saiam do senso comum, mas sem se perder o rumo como sessões de brainstorming convenciaonais.
 
 ## HMW - Como nós poderiamos?
 
-<aside>
-💡 É uma técnica simples para estabelecer uma mesma linguagem na definição de dúvidas sobre um produto.
-
-</aside>
+> 💡 É uma técnica simples para estabelecer uma mesma linguagem na definição de dúvidas sobre um produto.
 
 - Descrever as perguntas certas para posteriormente buscar as respostas
 
@@ -375,18 +314,12 @@ Exemplo de perguntas
 - Como poderíamos - Permitir auto ajuste de limite de crédito
 - Como poderíamos - Facilitar o investimento baseado no perfil
 
-<aside>
-💡 Utilize o How Might We para aumentar o leque de soluções sobre seu produto.
+> 💡 Utilize o How Might We para aumentar o leque de soluções sobre seu produto.
 Pode ser utilizado na fase de descobrir do double diamond.
-
-</aside>
 
 ## Crazy 8 ‘s
 
-<aside>
-💡 É uma técnica de trabalho individual em que as pessoas buscam 8 soluções diferentes em muito pouco tempo para o mesmo problema.
-
-</aside>
+> 💡 É uma técnica de trabalho individual em que as pessoas buscam 8 soluções diferentes em muito pouco tempo para o mesmo problema.
 
 - Evitar ideia óbvias e sair da zona de conforto
 - Aquecer a criatividade
@@ -394,52 +327,34 @@ Pode ser utilizado na fase de descobrir do double diamond.
 
 ![Untitled](images/Untitled%207.png)
 
-<aside>
-💡 Utilize quando você precisar buscar novas ideias e sair do óbvio
-
-</aside>
+> 💡 Utilize quando você precisar buscar novas ideias e sair do óbvio
 
 ## Story Boards
 
-<aside>
-💡 Criar storyboards é criar um desenho que mostra como um usuário está experimentando um contexto que tem um problema.
-
-</aside>
+> 💡 Criar storyboards é criar um desenho que mostra como um usuário está experimentando um contexto que tem um problema.
 
 - Entender como engajar mais pessoas utilizando o pensamento visual
 
 ![Untitled](images/Untitled%208.png)
 
-<aside>
-💡 Utilize o storyborad juntamente com o pixar storytelling para ajudar sua equipe a ter ideias cada vez melhores
-
-</aside>
+> 💡 Utilize o storyborad juntamente com o pixar storytelling para ajudar sua equipe a ter ideias cada vez melhores
 
 ## Fluxo de usuário
 
-<aside>
-💡 Fluxo de usuário é a representação gráfica das iterações do usuário com seu produto
+> 💡 Fluxo de usuário é a representação gráfica das iterações do usuário com seu produto
 Caso seja um APP ou Sistema, exibira as telas usadas até que a tarefa seja concluída.
-
-</aside>
 
 - Definir um conjunto de passos para o usuário completar uma tarefa
 - Destacar quais partes do produto estão envolvidas nessa tarefa
 
 ![Untitled](images/Untitled%209.png)
 
-<aside>
-💡 Utilize o fluxo do usuário para deixar claro a sequência de atividades e telas necessárias para execução de uma tarefa
-
-</aside>
+> 💡 Utilize o fluxo do usuário para deixar claro a sequência de atividades e telas necessárias para execução de uma tarefa
 
 ## Taxonomia
 
-<aside>
-💡 Uma exploração de diversas formas de categorizar conteúdos e informações.
+> 💡 Uma exploração de diversas formas de categorizar conteúdos e informações.
 A organização do conteúdo e dos rótulos ajudam o usuário a navegar com maior facilidade pelo site.
-
-</aside>
 
 - Organizar as áreas mais relacionadas em um site ou sistema
 - Deixar mais implícito as coisas para o usuário
@@ -451,10 +366,7 @@ Taxonomia urso (Exemplo)
 
 ## Sitemap
 
-<aside>
-💡 Sitemaps são uma forma de representar a taxonomia de um site. Um diagrama hierarquico que mostra a estrutura do site.
-
-</aside>
+> 💡 Sitemaps são uma forma de representar a taxonomia de um site. Um diagrama hierarquico que mostra a estrutura do site.
 
 CONFRONTE AS INFORMAÇÕES COM O USUÁRIO
 
@@ -464,10 +376,7 @@ CONFRONTE AS INFORMAÇÕES COM O USUÁRIO
 
 ![Untitled](images/Untitled%2011.png)
 
-<aside>
-💡 Utilize cardsorting para melhorar os resultados
-
-</aside>
+> 💡 Utilize cardsorting para melhorar os resultados
 
 Perguntas a serem feitas
 
@@ -478,10 +387,7 @@ Perguntas a serem feitas
 
 ## Princípios para Design
 
-<aside>
-💡 É uma técnica de estabelecimento de princípios para nortear todo processo de planejamento e construção.
-
-</aside>
+> 💡 É uma técnica de estabelecimento de princípios para nortear todo processo de planejamento e construção.
 
 - Definir o que você espera que os usuários pensem sobre seu produto e trabalhar na direção de atingir esse objetivo
     - Divertido
@@ -491,34 +397,22 @@ Perguntas a serem feitas
 
 ## Moodboard
 
-<aside>
-💡 Representação visual de elementos e referências (No estágio inicial do protejo) ajudarão a definir a aparência do produto.
-
-</aside>
+> 💡 Representação visual de elementos e referências (No estágio inicial do protejo) ajudarão a definir a aparência do produto.
 
 - Quadro de emoções
 - Colocar a equipe no clima do projeto
 - Obter referencias de inspiração
 - Gerar empatia com como os eu cliente vê o mundo
 
-<aside>
-💡 Utilizar quando quiser estampar visualmente as suas ideias em algum lugar, exemplificando cores, texturas, formas e estilos.
+> 💡 Utilizar quando quiser estampar visualmente as suas ideias em algum lugar, exemplificando cores, texturas, formas e estilos.
 
-</aside>
-
-<aside>
-💡 “Seria como conhecer uma pessoa sem vê-la, só pelas roupas que tem no armário, musicas que ouve, cores que gosta, filmes que costuma ver” - Letícia Motta
-
-</aside>
+> 💡 “Seria como conhecer uma pessoa sem vê-la, só pelas roupas que tem no armário, musicas que ouve, cores que gosta, filmes que costuma ver” - Letícia Motta
 
 # Métodos e ferramentas: Planejamento
 
 ## Roadmap
 
-<aside>
-💡 Ferramenta para mostrar ao time e aos stakeholders a visão do produto em alto nível. Não precisa incluir erros e features menores.
-
-</aside>
+> 💡 Ferramenta para mostrar ao time e aos stakeholders a visão do produto em alto nível. Não precisa incluir erros e features menores.
 
 - Planejar o futuro do time
 - Comunicar a estratégia
@@ -550,20 +444,14 @@ Perguntas a serem feitas
 
 ### Modelo melhorado (Job Story)
 
-<aside>
-💡 Descrição clara de uma necessidade do usuário sob a ótica dele.
-
-</aside>
+> 💡 Descrição clara de uma necessidade do usuário sob a ótica dele.
 
 - Eu, como PERSONA
 - Quando estou SITUAÇÃO/CONTEXTO
 - Quero MOTIVAÇÃO
 - Para que eu possa VALOR
 
-<aside>
-💡 Use o job Story para criar o seu backlog de produto, a lista de funcionalidades que você precisa criar.
-
-</aside>
+> 💡 Use o job Story para criar o seu backlog de produto, a lista de funcionalidades que você precisa criar.
 
 ## Critério de aceitação
 
@@ -591,10 +479,7 @@ Dicas
 
 ## Landing Page
 
-<aside>
-💡 Landing pages são páginas de aterrisagem para seu produto
-
-</aside>
+> 💡 Landing pages são páginas de aterrisagem para seu produto
 
 - Testar a conversão
 - Muito usada em teste A/B
@@ -607,10 +492,7 @@ Unbounce pode ajudar
 
 ## Teste A/B
 
-<aside>
-💡 Oferecer duas diferentes visões do produto para verificar qual delas melhor converte a ação
-
-</aside>
+> 💡 Oferecer duas diferentes visões do produto para verificar qual delas melhor converte a ação
 
 - Descobrir qual abordagem é mais adequada
 - Sempre modifique apenas 1 elemento do site
@@ -628,10 +510,7 @@ Unbounce pode ajudar
 
 ## Card Sorting
 
-<aside>
-💡 Pedir para que usuários agrupem conteúdos e funcionalidade em categorias que façam sentido para elas
-
-</aside>
+> 💡 Pedir para que usuários agrupem conteúdos e funcionalidade em categorias que façam sentido para elas
 
 - Melhorar a organização da navegação
 - Melhorar a encontrabilidade dos conteúdos
@@ -645,27 +524,15 @@ Unbounce pode ajudar
 
 ![Untitled](images/Untitled%2013.png)
 
-<aside>
-💡 Realizar o teste trará boas ideias qualitativas
+> 💡 Realizar o teste trará boas ideias qualitativas
 
-</aside>
-
-<aside>
-💡 O cardsorting será a base para um teste de árvore
-
-</aside>
+> 💡 O cardsorting será a base para um teste de árvore
 
 ## Auditoria de conteúdo
 
-<aside>
-💡 Forma de organizar as informações do site ou app, de forma que facilite para o usuário encontrar o que procura
+> 💡 Forma de organizar as informações do site ou app, de forma que facilite para o usuário encontrar o que procura
 
-</aside>
-
-<aside>
-💡 É uma atividade para agrupar todo os conteúdo do site em um único local e viabilizar a tomada de decisões de reestruturação
-
-</aside>
+> 💡 É uma atividade para agrupar todo os conteúdo do site em um único local e viabilizar a tomada de decisões de reestruturação
 
 - Conhecer o volume de conteúdo
 - Reorganizar os conteúdos do site
@@ -720,18 +587,12 @@ Unbounce pode ajudar
 
 ![Untitled](images/Untitled%2015.png)
 
-<aside>
-💡 O produto sempre precisa de testes, tudo pode melhorar!
-
-</aside>
+> 💡 O produto sempre precisa de testes, tudo pode melhorar!
 
 ## Pesquisas qualitativas
 
-<aside>
-💡 São ações de levantamento que produzem números
+> 💡 São ações de levantamento que produzem números
 Fora rápida de coletar feedbacks
-
-</aside>
 
 - Quem são seus usuários?
 - O que eles querem?
@@ -740,11 +601,8 @@ Fora rápida de coletar feedbacks
 - Coletar feedbacks
 - Entender comportamento
 
-<aside>
-💡 - Gera informação para melhorar o design dos produtos
+> 💡 - Gera informação para melhorar o design dos produtos
 - Mitiga o risco de criar algo que usuários não precisam
-
-</aside>
 
 Coisas para ficar antenado
 
