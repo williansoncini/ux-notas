@@ -627,7 +627,33 @@ Coisas para ficar antenado
 
 [https://www.typeform.com/](https://www.typeform.com/)
 
+
+# Métdodos e ferramentas: Desenho de interface
+
+## Sketchs, Wireframes, Protótipos e Guias de Estilos
+### Sketchs
+> Forma simples de mostrar uma ideia visual do produto. Geralmente feito com poucos recursos.
+
+- Usado mais para validação da quantidade de coisas necessárias
+
+![[Pasted image 20220704210647.png]]
+
+## Wireframe
+
+> Utilizado para se ter uma ideia do visual do produto. Nessa etapa já se fica mais preocupado com a iteração do usuário
+
+- Utilizado para organizar conteudos na tela
+- Promover validações com o usuário
+- Focado no funcional e não no estético
+
+![[Pasted image 20220704210855.png]]
+
+
+# Referencias
+[https://www.udemy.com/course/ux-design/](https://www.udemy.com/course/ux-design/)
+
 # Conteúdos para validar posteriormente
+
 
 [https://www.thesprintbook.com/book](https://www.thesprintbook.com/book)
 
@@ -684,3 +710,5 @@ Design Thinking - [https://designthinking.ideo.com/search/?q=how-might-we](https
 **Cardsorting -** [http://www.maxandriani.art.br/2012/11/20/card-sorting-uma-janela-para-a-mente](http://www.maxandriani.art.br/2012/11/20/card-sorting-uma-janela-para-a-mente)
 
 **UX Design e impacto de performance -** [https://brasil.uxdesign.cc/a-importância-da-performance-das-páginas-na-experiência-do-usuário-36c375876e87](https://brasil.uxdesign.cc/a-import%C3%A2ncia-da-performance-das-p%C3%A1ginas-na-experi%C3%AAncia-do-usu%C3%A1rio-36c375876e87)
+
+![[Pasted image 20220704205908.png]]
