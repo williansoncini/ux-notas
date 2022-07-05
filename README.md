@@ -7,7 +7,7 @@
   - [Blue Sprint](#blue-sprint)
   - [Touch points](#touch-points)
   - [Mapa de jornada do usuário](#mapa-de-jornada-do-usuário)
-  - [Ecossitema](#ecossitema)
+  - [Ecossistema](#ecossistema)
   - [Golden Path](#golden-path)
   - [Proposta de valor](#proposta-de-valor)
   - [Business Model Canvas](#business-model-canvas)
@@ -19,7 +19,7 @@
 - [Métodos e ferramentas: Geração de ideias](#métodos-e-ferramentas-geração-de-ideias)
   - [Double diamond](#double-diamond)
     - [4 ETAPAS](#4-etapas)
-  - [HMW - Como nós poderiamos?](#hmw---como-nós-poderiamos)
+  - [HMW - Como nós poderíamos?](#hmw---como-nós-poderíamos)
   - [Crazy 8 ‘s](#crazy-8-s)
   - [Story Boards](#story-boards)
   - [Fluxo de usuário](#fluxo-de-usuário)
@@ -42,6 +42,16 @@
   - [Canais de feedbacks](#canais-de-feedbacks)
   - [Entrevista de usabilidade](#entrevista-de-usabilidade)
   - [Pesquisas qualitativas](#pesquisas-qualitativas)
+- [Métdodos e ferramentas: Desenho de interface](#métdodos-e-ferramentas-desenho-de-interface)
+  - [sketches, Wireframes, Protótipos e Guias de Estilos](#sketches-wireframes-protótipos-e-guias-de-estilos)
+    - [sketches](#sketches)
+  - [Wireframe](#wireframe)
+  - [Protótipos](#protótipos)
+  - [Guia de estilos](#guia-de-estilos)
+  - [sketches - Frames](#sketches---frames)
+  - [sketches - Texto e conteúdo](#sketches---texto-e-conteúdo)
+  - [Sketches - Representar fluxos do usuário](#sketches---representar-fluxos-do-usuário)
+- [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
 # UX
@@ -63,7 +73,7 @@ Exemplo
 
 ## Personas
 
-Personas são personagens ficticios criados para representar os diferentes tipos de usuários para um produto. É uma forma de criar empatia do seu time com os consumidores no processo de design.
+Personas são personagens fictícios criados para representar os diferentes tipos de usuários para um produto. É uma forma de criar empatia do seu time com os consumidores no processo de design.
 
 - Identificar o público alvo
 - Gerar consenso no time
@@ -143,7 +153,7 @@ Entender o antes, durante e depois do usuário.
 
 ![Untitled](images/Untitled%203.png)
 
-## Ecossitema
+## Ecossistema
 
 Representação clara de todos os pontos de contato do usuário com sua marca ou produto. Busca identificar oportunidades de melhoria em pontos que muitas vezes não nos preocupamos.
 
@@ -238,7 +248,7 @@ Como fazer
 
 Palestra relâmpago
 
-O lightninh talk é uma apresentação curta. Uma apresentação relampago. Várias pessoas falam por poucos minutos com objetivos de compartilhar diversas visões.
+O lightning talk é uma apresentação curta. Uma apresentação relâmpago. Várias pessoas falam por poucos minutos com objetivos de compartilhar diversas visões.
 
 - Perceber um desafio sob óticas diferentes como:
     - tecnologia
@@ -282,7 +292,7 @@ O lightninh talk é uma apresentação curta. Uma apresentação relampago. Vár
 
 - Gerar ideias de forma estruturada
 - Aguçar a criatividade
-- Trabalhar em equipe para constuir conhecimento
+- Trabalhar em equipe para construir conhecimento
 - Entender de verdade o que as pessoas precisam
 
 > 💡 “A pergunta certa é geralmente main importante do que a resposta certa á pergunta errada” - Alvin Toffler
@@ -302,7 +312,7 @@ O lightninh talk é uma apresentação curta. Uma apresentação relampago. Vár
 
 > 💡 Utilize o duplo diamente quando precisar gerar ideias que saiam do senso comum, mas sem se perder o rumo como sessões de brainstorming convenciaonais.
 
-## HMW - Como nós poderiamos?
+## HMW - Como nós poderíamos?
 
 > 💡 É uma técnica simples para estabelecer uma mesma linguagem na definição de dúvidas sobre um produto.
 
@@ -366,7 +376,7 @@ Taxonomia urso (Exemplo)
 
 ## Sitemap
 
-> 💡 Sitemaps são uma forma de representar a taxonomia de um site. Um diagrama hierarquico que mostra a estrutura do site.
+> 💡 Sitemaps são uma forma de representar a taxonomia de um site. Um diagrama hierárquico que mostra a estrutura do site.
 
 CONFRONTE AS INFORMAÇÕES COM O USUÁRIO
 
@@ -380,7 +390,7 @@ CONFRONTE AS INFORMAÇÕES COM O USUÁRIO
 
 Perguntas a serem feitas
 
-- A taxanomia suporta a jornada?
+- A taxonomia suporta a jornada?
 - Diferentes personas entendem?
 - Há alguma categoria com só um item?
 - Há mais de 7 categorias?
@@ -479,7 +489,7 @@ Dicas
 
 ## Landing Page
 
-> 💡 Landing pages são páginas de aterrisagem para seu produto
+> 💡 Landing pages são páginas de aterrissagem para seu produto
 
 - Testar a conversão
 - Muito usada em teste A/B
@@ -616,7 +626,7 @@ Coisas para ficar antenado
 - Mantenha o formulário pequeno
 - Inclua o não sei
 - As respostas serão tão boas quanto suas perguntas!
-- Cuidado para não eviesar
+- Cuidado para não enviesar
     - Não pergunte coisas óbvias
     - Busque descobrir as coisas
 - Não mude as questões após o início das aplicações
@@ -630,26 +640,65 @@ Coisas para ficar antenado
 
 # Métdodos e ferramentas: Desenho de interface
 
-## Sketchs, Wireframes, Protótipos e Guias de Estilos
-### Sketchs
-> Forma simples de mostrar uma ideia visual do produto. Geralmente feito com poucos recursos.
+## sketches, Wireframes, Protótipos e Guias de Estilos
+### sketches
+> 💡 Forma simples de mostrar uma ideia visual do produto. Geralmente feito com poucos recursos.
 
 - Usado mais para validação da quantidade de coisas necessárias
 
-![[Pasted image 20220704210647.png]]
+![](images/Pasted%20image%2020220704210647.png)
 
 ## Wireframe
 
-> Utilizado para se ter uma ideia do visual do produto. Nessa etapa já se fica mais preocupado com a iteração do usuário
+> 💡 Utilizado para se ter uma ideia do visual do produto. Nessa etapa já se fica mais preocupado com a iteração do usuário
 
-- Utilizado para organizar conteudos na tela
+- Utilizado para organizar conteúdos na tela
 - Promover validações com o usuário
 - Focado no funcional e não no estético
 
-![[Pasted image 20220704210855.png]]
+![](images/Pasted%20image%2020220704210855.png)
+
+## Protótipos
+> 💡 Existem protótipos de baixa, média e alta fidelidade
+
+- Baixa fidelidade - sketches - Usado para se ter uma ideia de fluxos e componentes necessários para o usuário
+- Média fidelidade - Wireframe - Utilizado para validação de funcionalidades com o usuários. Aqui é necessário definir fluxos e hierarquia de conteúdos.
+- Alta fidelidade - Wireframe - Só que com o visual a tona, nessa etapa é necessário para o usuário validar a entrega final do produto. Como ele realmente será.
+	- Leve em consideração que protótipos de alta fidelidade, não servem para validar fluxos ou funcionalidades, tendo em vista que se for necessário alterações, pode ser muito custo-so em relação a tempo. Validações devem ser feitas com protótipos de baixa e média fidelidade :3
+
+![](images/2022-07-04-21-42-45.png)
+
+## Guia de estilos
+
+> Usado para mantes o estilos nas aplicações. Para não ter que sempre ficar pensando em um visual novo para cada aplicação que for fazer
+
+- Ter um guia de estilos é necessário para manter um alto padrão de estética, com um baixo custo de tempo. Afinal estára tudo pronto :3
+
+![](images/2022-07-04-22-00-07.png)
+
+
+## sketches - Frames
+
+São os moldes de telas que você vai trabalhar :3 
+
+## sketches - Texto e conteúdo
+
+Exemplo
+
+![](images/2022-07-04-23-19-47.png)
+
+## Sketches - Representar fluxos do usuário
+
+> Gestos que o usuário pode realizar, que você deseje representar em seu esboço
+
+![](images/2022-07-04-23-23-22.png)
+
+![](images/2022-07-04-23-24-22.png)
+
 
 
 # Referencias
+
 [https://www.udemy.com/course/ux-design/](https://www.udemy.com/course/ux-design/)
 
 # Conteúdos para validar posteriormente
@@ -710,5 +759,3 @@ Design Thinking - [https://designthinking.ideo.com/search/?q=how-might-we](https
 **Cardsorting -** [http://www.maxandriani.art.br/2012/11/20/card-sorting-uma-janela-para-a-mente](http://www.maxandriani.art.br/2012/11/20/card-sorting-uma-janela-para-a-mente)
 
 **UX Design e impacto de performance -** [https://brasil.uxdesign.cc/a-importância-da-performance-das-páginas-na-experiência-do-usuário-36c375876e87](https://brasil.uxdesign.cc/a-import%C3%A2ncia-da-performance-das-p%C3%A1ginas-na-experi%C3%AAncia-do-usu%C3%A1rio-36c375876e87)
-
-![[Pasted image 20220704205908.png]]
