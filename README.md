@@ -45,9 +45,9 @@
 - [Métdodos e ferramentas: Desenho de interface](#métdodos-e-ferramentas-desenho-de-interface)
   - [sketches, Wireframes, Protótipos e Guias de Estilos](#sketches-wireframes-protótipos-e-guias-de-estilos)
     - [sketches](#sketches)
-  - [Wireframe](#wireframe)
-  - [Protótipos](#protótipos)
-  - [Guia de estilos](#guia-de-estilos)
+    - [Wireframe](#wireframe)
+    - [Protótipos](#protótipos)
+    - [Styleguides - Guia de estilos](#styleguides---guia-de-estilos)
   - [sketches - Frames](#sketches---frames)
   - [sketches - Texto e conteúdo](#sketches---texto-e-conteúdo)
   - [Sketches - Representar fluxos do usuário](#sketches---representar-fluxos-do-usuário)
@@ -641,6 +641,7 @@ Coisas para ficar antenado
 # Métdodos e ferramentas: Desenho de interface
 
 ## sketches, Wireframes, Protótipos e Guias de Estilos
+
 ### sketches
 > 💡 Forma simples de mostrar uma ideia visual do produto. Geralmente feito com poucos recursos.
 
@@ -648,18 +649,76 @@ Coisas para ficar antenado
 
 ![](images/Pasted%20image%2020220704210647.png)
 
-## Wireframe
+### Wireframe
 
 > 💡 Utilizado para se ter uma ideia do visual do produto. Nessa etapa já se fica mais preocupado com a iteração do usuário
 
 - Utilizado para organizar conteúdos na tela
 - Promover validações com o usuário
 - Focado no funcional e não no estético
+- Clarear a hierarquia funcional
+- Mostrar a estrutura funcional de um site ou app
 
 ![](images/Pasted%20image%2020220704210855.png)
 
-## Protótipos
-> 💡 Existem protótipos de baixa, média e alta fidelidade
+*Te ajuda com:*
+
+- Os objetivos do negócio
+- Requisito técnico do sistema
+- Conceito criativo
+- Hierarquia de interface
+- Disposição das informações na tela
+- Quantidade e tipo de conteúdos
+- Menus e elementos de navegação
+- Comportamento em tamanhos de tela (Responsividade)
+- Requisitos de negócio e sistema
+- Variações e estados diferentes do sistema
+
+
+*Coisas que você não verá nos Wireframes*
+
+- Layout final
+- Identidade visual da marca
+- Texto e conteúdo final
+- Todos os casos de uso
+
+*Vantagens*
+
+- Evita o trabalho desnecessário
+- Facilita o feedback
+- Paralelismo no dev
+
+
+
+
+### Protótipos
+
+> 💡 Produto na fase de teste e planejamento
+
+Usado para: 
+
+- Analisar se seus desenhos trarão resultados
+
+*Vantagens*
+
+- Experiencia de navegação
+- Menos documentos
+- Apresentação para clientes
+- Fácil aprendizado
+- Facilidade de teste
+- Aprender enquanto desenha
+
+*Wireframe ou protótipo?*
+
+- Orçamento
+- Fase do projeto
+  - Geração de conceitos
+  - Validação de conceito
+  - Produção
+- Complexidade de interface
+- Tipo de audiência
+
+> Cuidado ao apresentar wireframes, explique que é somente um esboço
 
 - Baixa fidelidade - sketches - Usado para se ter uma ideia de fluxos e componentes necessários para o usuário
 - Média fidelidade - Wireframe - Utilizado para validação de funcionalidades com o usuários. Aqui é necessário definir fluxos e hierarquia de conteúdos.
@@ -668,14 +727,36 @@ Coisas para ficar antenado
 
 ![](images/2022-07-04-21-42-45.png)
 
-## Guia de estilos
+### Styleguides - Guia de estilos
 
 > Usado para mantes o estilos nas aplicações. Para não ter que sempre ficar pensando em um visual novo para cada aplicação que for fazer
 
-- Ter um guia de estilos é necessário para manter um alto padrão de estética, com um baixo custo de tempo. Afinal estára tudo pronto :3
+- Permitir que o time avance mais rápido
+- Levar o foco para o funcional e não para o artístico
+
+- Ter um guia de estilos é necessário para manter um alto padrão de estética, com um baixo custo de tempo. Afinal estará tudo pronto :3
 
 ![](images/2022-07-04-22-00-07.png)
 
+
+Coisas para se ter em sua biblioteca de estilos
+
+- Texto
+- Estrutura de página
+- Tabelas
+- Slideshows
+- Elementos de navegação
+- Botões de redes sociais
+- Ferramenta de busca
+- Listagem de artigos
+- Galeria de fotos
+- Módulos de links relacionados
+- Carrosséis
+- Botões de ação primaria e secundária
+
+> Consistência na experiencia do usuário
+> Reutilização dos elementos pelo time
+> Manutenção
 
 ## sketches - Frames
 
