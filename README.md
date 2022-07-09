@@ -51,6 +51,10 @@
   - [sketches - Frames](#sketches---frames)
   - [sketches - Texto e conteúdo](#sketches---texto-e-conteúdo)
   - [Sketches - Representar fluxos do usuário](#sketches---representar-fluxos-do-usuário)
+  - [Usabilidade e Checklist de experiencia](#usabilidade-e-checklist-de-experiencia)
+    - [Usabilidade](#usabilidade)
+      - [Informações em poucas quantidades](#informações-em-poucas-quantidades)
+      - [Hierarquia funcional](#hierarquia-funcional)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -775,6 +779,41 @@ Exemplo
 ![](images/2022-07-04-23-23-22.png)
 
 ![](images/2022-07-04-23-24-22.png)
+
+## Usabilidade e Checklist de experiencia
+
+### Usabilidade
+
+> 💡 Você precisa tornar a usabilidade simples
+
+Pontos de atenção
+
+- Remova oque não é necessário
+- Esconda elementos e mostre somente quando o usuário precisar delas
+- Organize os elementos
+- Mova os elementos para os locais onde o usuário precise deles
+
+#### Informações em poucas quantidades
+
+- Exiba informações em pequenas doses
+  
+#### Hierarquia funcional
+
+- Preocupe-se com hierarquias
+  - Organize itens similares com visual similar
+  - Evite inconsistências
+  - Use cores para diferenciar as ações principais
+  - Categorize
+  - Use tamanhos de fonte diferentes para criar hierarquia
+  - Tenha equilíbrio de textos e imagens
+- Qual a ação principal?
+- Quais são as ações secundárias?
+- Qual o mínimo de informação que o usuário precisa saber para realizar a tarefa?
+- Imagens são necessárias?
+- Qual o mínimo de elementos que você precisa?
+- Qual a primeira coisa que você que ele leia?
+
+
 
 
 
