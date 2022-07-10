@@ -858,8 +858,62 @@ Pontos de atenção
 - Comunique beneficios e não funcionalidades
 - Fale a linguage do usuário
 
+#### Checklist de UX
 
+*By Frabicio Teixeira*
 
+![Download do arquivo PDF](/files/checklist-de-ux-arquitetura-da-informaao_compress.pdf)
+
+##### Simplicidade
+
+- Reduzir
+- Revelar
+- Simplificar
+- Padronizar
+- Priozirar
+- Adiar
+- Testar
+- Analizar
+
+##### Acionável
+
+- Direcionar
+- Explicar
+- Indicar
+- Incentivar
+- Situar
+- Informar
+- Ajudar
+- Continuar
+
+##### Inteligente
+
+- Destacar
+- Prevenir
+- Tolerar
+- Automatizar
+- Extrapolar
+- Personalizar
+
+##### Agradavél
+
+- Humanizar
+- Considerar
+- Alinhar
+- Explicar
+- Facilitar
+- Agilizar
+- Mover
+- Surpreender
+
+##### Relevante
+
+- Entregar
+- Acompanhar
+- Refletir
+- Escolher
+- Melhorar
+- Consultar
 
 # Referencias
 
