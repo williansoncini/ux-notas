@@ -819,6 +819,28 @@ Pontos de atenção
 - Não colocar todas as informações em uma única tela
 - Pensar em fluxos de informações que facilite para o usuário
 
+#### Adivinhar intenções, Estados, Prevenções de erros
+
+- Diga ao usuário oque fazer a seguir
+- Esclareça os pontos para os usuários - Areas de iterações bem claras
+  - Botões
+  - Links
+  - ...
+- Evite erros antes que acontecam, prevenir o usuário de enviar informações que podem causar erros é necessário
+
+#### Tempo do usuário
+
+- Melhorar a usabilidade do usuário de maneira que ele possa aproveitar seu tempo da melhor forma possível
+  - Exemplo - Upload de arquivos, permitindo o usuário mexer em outras telas
+- Faça o trabalho pesado para seu usuário
+- Deixe para o usuário somente as tarefas fáceis
+- Nada de sistema complicado @-@
+- Seja honesto nas coisas que você pede ao usuário
+  - Esclarecer o por que necessita da informação
+
+  
+
+
 
 
 # Referencias
