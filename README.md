@@ -641,7 +641,6 @@ Coisas para ficar antenado
 
 [https://www.typeform.com/](https://www.typeform.com/)
 
-
 # Métdodos e ferramentas: Desenho de interface
 
 ## sketches, Wireframes, Protótipos e Guias de Estilos
@@ -678,7 +677,6 @@ Coisas para ficar antenado
 - Requisitos de negócio e sistema
 - Variações e estados diferentes do sistema
 
-
 *Coisas que você não verá nos Wireframes*
 
 - Layout final
@@ -691,9 +689,6 @@ Coisas para ficar antenado
 - Evita o trabalho desnecessário
 - Facilita o feedback
 - Paralelismo no dev
-
-
-
 
 ### Protótipos
 
@@ -914,6 +909,35 @@ Pontos de atenção
 - Escolher
 - Melhorar
 - Consultar
+
+## Métricas de sucesso
+
+### Google Analytics
+
+> Ferramenta do Google que gera muitos números com pouco esforço
+
+### Métricas de vaidade
+
+> Números para você se sentir bem, mas ruim para você tomar decisões
+
+- Empresas gostam de mostrar crescimento
+- A mídia gosta de publicar números
+
+Artigo que possa ajudar :3 
+
+https://rafaelcosta.jusbrasil.com.br/artigos/454529208/o-jusbrasil-pode-acabar-em-6-meses-sim-definitivamente
+
+- Olhe para as métricas certas
+  - Métricas que vão te ajudar a crescer de verdade
+    - Usuários que estão utilizando mesmo
+    - Taxa de conversão
+    - Número de produtos vendidos
+    - Usuários ativos
+    - Engajamento
+    - Custo de arquisição de cliente
+    - Receita e lucro
+
+> Não seja enganado por suas métricas, faça uma nálise critica se elas são verdadeiras.
 
 # Referencias
 
