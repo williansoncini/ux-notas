@@ -846,7 +846,17 @@ Pontos de atenção
   - Bonequinho que se balança no google street view
   - Quando está inserindo os dados do cartão de crédito, o cartão virar visualmente para o usuário
 
+#### Personalidade, microtextos e linguagem
 
+- Expresse a personalidade da marca
+  - Logos
+  - Icones
+  - Mascotes
+- Lembre-se dos microtextos
+  - Like unlike
+  - Postado há 3 horas em vez de postado 10/07/2022 15:00
+- Comunique beneficios e não funcionalidades
+- Fale a linguage do usuário
 
 
 
