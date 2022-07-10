@@ -838,7 +838,15 @@ Pontos de atenção
 - Seja honesto nas coisas que você pede ao usuário
   - Esclarecer o por que necessita da informação
 
-  
+#### Microinterações
+
+- Há beleza nos pequenos detalhes
+- Evite elementos em excesso
+- Exemplo
+  - Bonequinho que se balança no google street view
+  - Quando está inserindo os dados do cartão de crédito, o cartão virar visualmente para o usuário
+
+
 
 
 
