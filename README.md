@@ -813,7 +813,11 @@ Pontos de atenção
 - Qual o mínimo de elementos que você precisa?
 - Qual a primeira coisa que você que ele leia?
 
+#### Simplificação de formulários
 
+- Apresentar os conteudos aos poucos para o usuário
+- Não colocar todas as informações em uma única tela
+- Pensar em fluxos de informações que facilite para o usuário
 
 
 
