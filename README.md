@@ -72,6 +72,10 @@
     - [KPI](#kpi)
     - [NPS - Net Promoter Score](#nps---net-promoter-score)
   - [CTR - Click through rate](#ctr---click-through-rate)
+  - [DAU - Daily active users](#dau---daily-active-users)
+    - [Cohort](#cohort)
+  - [Churn rate - Taxa de evasão](#churn-rate---taxa-de-evasão)
+  - [Growth rate - Taxa de crescimento](#growth-rate---taxa-de-crescimento)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -1019,6 +1023,48 @@ Oque fazer quando o CTR é abaixo do esperado?
 - Melhora o call to action todo
 
 > Fazer o CTR por etapadas vai te ajudar a passar o pente fino quando necessário
+
+## DAU - Daily active users
+
+> Usuários ativos diariamente mede o quanto você consegue fidelizar seus usuários.
+
+> Usuários ativos devem ser medidos de acordo com suas ações na empresa em determinado periodo
+
+Também existem
+
+- WAU - Weekly active users
+- MAU - Monthly active users
+- YAU - Yearly active users
+
+### Cohort
+
+Também é interessante medir o cohort, que é um grupo de pessoas que tem em comum algum evento, para validar o estado do grupo após apresentar esse grupo a algum desfecho.
+
+No exemplo de apps, da para medir a quantidade de pessoas que voltaram a acessar a plataforma :3 (Fidelidade)
+
+![](images/cohort.png)
+
+## Churn rate - Taxa de evasão
+
+> Taxa de pessoas que deixam de ser assinantes
+
+> Número de cancelamentos mensal pelo número de usuários ativos
+
+Se no período fechado você teve o cancelamento de 5 clientes em uma base de 20, o percentual do churn no mês corresponde a 0,25 ou 25% 
+
+Como reduzir o chrun?
+
+- Manter a qualidade
+- Ações de relacionamento
+- Cliente satisfeito = Sucesso do negócio
+
+## Growth rate - Taxa de crescimento
+
+> Número de novos usuarios mensal pelo numero de usuario ativos
+
+**O GROWTH RATE SEMPRE DEVE SER MAIOR QUE O CHURN RATE**
+
+**GROWTH RATE > CHURN RATE**
 
 # Referencias
 
