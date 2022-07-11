@@ -79,6 +79,8 @@
   - [LTV e CAC](#ltv-e-cac)
     - [CAC](#cac)
   - [Base line - Linha de base](#base-line---linha-de-base)
+  - [HEART - Framework de métricas de UX](#heart---framework-de-métricas-de-ux)
+    - [Como implantar?](#como-implantar)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -1123,6 +1125,52 @@ Exemplo linha base
 
 Google analytics pode ajudar \o/
 
+## HEART - Framework de métricas de UX
+
+> Heart é um acronomo
+
+- Happiness - Felicidade
+  - Satisfação do usuáriio
+  - NPS
+- Engagement - Engajamento
+  - Atividades do usuário
+  - Uso do sistema ou app
+  - Interações
+- Adoption - Adoção
+  - Novos usuários
+  - Uso de novas funcinalidades
+  - Growth rate (Taxa de crescimento)
+- Retention - Retenção
+  - % ativo / unidade de tempo
+  - Churn rate (Taxa de sáida)
+  - LTV (Valor do tempo de vida do cliente)
+    - Gamificação
+    - Bonificações
+    - Prémios
+    - Melhor atendimento (Customer service)
+    - O que fazer para garantir que o cliente fique mais tempo com você?
+- Task Success = Sucesso
+  - Tempo de uso para realizar tarefa
+  - Quantidade de tarefas completadas
+  - Quantidade de erros
+
+### Como implantar?
+
+- Objetivos
+  - Discuta com a equipe
+  - Alinhamento de visão
+  - Gerar consenso de onde querem chegar
+- Sinais (Mercado)
+  - O que te alertará que algo ocorreu?
+  - Quais são os sinais de insucesso?
+  - Qual é a dificuldade de coletar?
+  - A coleta, quanto mais automatizada for, melhor é. Guarde energia para a analise
+- Métricas
+  - Refine a discussão
+  - Priorize o que deseja medir
+  - Reavalie periodicamente
+
+![](images/heart-ux.png)
 
 # Referencias
 
