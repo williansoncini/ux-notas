@@ -71,6 +71,7 @@
     - [Métricas de vaidade](#métricas-de-vaidade)
     - [KPI](#kpi)
     - [NPS - Net Promoter Score](#nps---net-promoter-score)
+  - [CTR - Click through rate](#ctr---click-through-rate)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -1004,6 +1005,20 @@ NPS = % PROMOTORES - % DETRATORES
 Imagem super completa
 
 ![](images/piramide-do-net-promoter-score.png)
+
+## CTR - Click through rate
+
+> Número de vezes que o usuário cliccou em seu anúncio ou call to action em relação ao total de vezes que esse elemento foi exibido para ele
+
+CTR = Total de cliques / Total de exibições * 100
+
+Oque fazer quando o CTR é abaixo do esperado?
+
+- Focar mais na linguagem do público alvo
+- Incluir imagens que tocam o usuário
+- Melhora o call to action todo
+
+> Fazer o CTR por etapadas vai te ajudar a passar o pente fino quando necessário
 
 # Referencias
 
