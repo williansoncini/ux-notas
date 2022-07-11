@@ -78,6 +78,7 @@
   - [Growth rate - Taxa de crescimento](#growth-rate---taxa-de-crescimento)
   - [LTV e CAC](#ltv-e-cac)
     - [CAC](#cac)
+  - [Base line - Linha de base](#base-line---linha-de-base)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -1102,6 +1103,26 @@ LTV = R$ 1000,00
 CAC entre R$ 200 e R$ 333
 
 > Se lembre de aviliar o CAC com base na aquisição do seu produto.
+
+## Base line - Linha de base
+
+> São seus números atuais
+
+Atual: LTV = R$ 1500 (Linha base)
+Meta: LTV = R$ 2200
+
+- Sem linha de base é muito difícil definir metas realistas!
+- Meça desde o primeiro dia!
+
+Exemplo linha base
+
+- Número de visitantes
+- Número de páginas visitadas
+- Tempo de sessão
+- Fonte de tráfego
+
+Google analytics pode ajudar \o/
+
 
 # Referencias
 
