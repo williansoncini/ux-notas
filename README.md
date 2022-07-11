@@ -76,6 +76,8 @@
     - [Cohort](#cohort)
   - [Churn rate - Taxa de evasão](#churn-rate---taxa-de-evasão)
   - [Growth rate - Taxa de crescimento](#growth-rate---taxa-de-crescimento)
+  - [LTV e CAC](#ltv-e-cac)
+    - [CAC](#cac)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -1065,6 +1067,41 @@ Como reduzir o chrun?
 **O GROWTH RATE SEMPRE DEVE SER MAIOR QUE O CHURN RATE**
 
 **GROWTH RATE > CHURN RATE**
+
+## LTV e CAC
+
+LTV - Life time value
+
+> Life time value é o quanto que seu cliente te entrega enquanto é assinante
+
+Exemplo
+
+~ 6 meses de assinatura
+R$ 100,00/mês
+LTV = R$ 600,00
+
+**IMPORTANTE**
+
+- Quanto você pode investir no cliente?
+- É mais barato manter um cliente do que conquistar um novo
+
+### CAC
+
+> CAC é o custo de aquição de cliente, ou quanto custa "Comprar um cliente".
+
+> O CAC - Custo de aquisição por cliente sempre deve ser menor que o LTV, beeeeeeeeeeem menor @-@
+
+![](images/cac-ltv.png)
+
+1:3 ou 1:5 é uma boa proporção CAC:LTV
+
+R$ 1,00 investido, R$ 3,00 retorno
+
+LTV = R$ 1000,00
+
+CAC entre R$ 200 e R$ 333
+
+> Se lembre de aviliar o CAC com base na aquisição do seu produto.
 
 # Referencias
 
