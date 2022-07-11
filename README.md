@@ -55,6 +55,22 @@
     - [Usabilidade](#usabilidade)
       - [Informações em poucas quantidades](#informações-em-poucas-quantidades)
       - [Hierarquia funcional](#hierarquia-funcional)
+      - [Simplificação de formulários](#simplificação-de-formulários)
+      - [Adivinhar intenções, Estados, Prevenções de erros](#adivinhar-intenções-estados-prevenções-de-erros)
+      - [Tempo do usuário](#tempo-do-usuário)
+      - [Microinterações](#microinterações)
+      - [Personalidade, microtextos e linguagem](#personalidade-microtextos-e-linguagem)
+      - [Checklist de UX](#checklist-de-ux)
+        - [Simplicidade](#simplicidade)
+        - [Acionável](#acionável)
+        - [Inteligente](#inteligente)
+        - [Agradavél](#agradavél)
+        - [Relevante](#relevante)
+  - [Métricas de sucesso](#métricas-de-sucesso)
+    - [Google Analytics](#google-analytics)
+    - [Métricas de vaidade](#métricas-de-vaidade)
+    - [KPI](#kpi)
+    - [NPS - Net Promoter Score](#nps---net-promoter-score)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -939,6 +955,56 @@ https://rafaelcosta.jusbrasil.com.br/artigos/454529208/o-jusbrasil-pode-acabar-e
 
 > Não seja enganado por suas métricas, faça uma nálise critica se elas são verdadeiras.
 
+### KPI
+
+> Indicadores chave de desempenho ou indicadores de sucesso
+
+> São indicadores que permitirão que você acompanhe a evolução das operações
+
+- Foco nas metas e objetivos
+
+*Exemplos*
+
+- Indicadores de produtividade
+  - Textos criados por analista judicial
+  - Processos julgados por ministro
+  - Taxa de conversão de vendas
+  - Tempo de trabalho em atividades
+  - Taxa de pessoas que deixaram de ser assinantes
+- Indicadores de qualidade
+  - Redistribuições
+  - Reclassificações
+  - Desaprovações
+  - Prças com defeito
+  - Undeply
+  - Reclamações
+- Indicadores de capacidade
+  - Quantidade de processos analisados por dia por área
+  - Quantidade processos anlisados por dia por pessoa
+  - Quantidade de folhas impressas por minuto
+- Indicadores estratégicos
+  - Aumentar o % de empresas utilizando o produto
+  - Aumenta a quantidade de processos julgados por ano
+  - Aumentar o número de tribunais integrados
+  
+### NPS - Net Promoter Score
+
+> Metodologia criada para medir o grau de satisfação do usuário com uma empresa
+
+> Qual é a probabilidade de recomendar esse produto é um amigo?
+
+![](images/NPS.jpg)
+
+Calculo
+
+NPS = % PROMOTORES - % DETRATORES
+
+![](images/nps-faixa.png)
+
+Imagem super completa
+
+![](images/piramide-do-net-promoter-score.png)
+
 # Referencias
 
 [https://www.udemy.com/course/ux-design/](https://www.udemy.com/course/ux-design/)
@@ -1001,3 +1067,4 @@ Design Thinking - [https://designthinking.ideo.com/search/?q=how-might-we](https
 **Cardsorting -** [http://www.maxandriani.art.br/2012/11/20/card-sorting-uma-janela-para-a-mente](http://www.maxandriani.art.br/2012/11/20/card-sorting-uma-janela-para-a-mente)
 
 **UX Design e impacto de performance -** [https://brasil.uxdesign.cc/a-importância-da-performance-das-páginas-na-experiência-do-usuário-36c375876e87](https://brasil.uxdesign.cc/a-import%C3%A2ncia-da-performance-das-p%C3%A1ginas-na-experi%C3%AAncia-do-usu%C3%A1rio-36c375876e87)
+****
