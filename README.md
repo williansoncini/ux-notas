@@ -82,6 +82,8 @@
   - [HEART - Framework de métricas de UX](#heart---framework-de-métricas-de-ux)
     - [Como implantar?](#como-implantar)
   - [MVP](#mvp)
+- [Processos de trabalho - Lean UX: Base e princípios](#processos-de-trabalho---lean-ux-base-e-princípios)
+  - [Base Design Thinking](#base-design-thinking)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -1226,6 +1228,21 @@ Google analytics pode ajudar \o/
 > "Se você não tem vergonha da primeira versão do seu produto, você demorou demais para lançar" - Reid Hoffman
 
 ![](images/MVP.png)
+
+# Processos de trabalho - Lean UX: Base e princípios
+
+## Base Design Thinking
+
+- Empoderar a inovação
+- Observar o contexto
+- Propor soluções
+
+> "inovação catalizada pela direta observação do que as pessoas querem e precisam em suas vidas e o que elas gostam ou não gostam sobre uma forma particular de como os produtos são criados, empacotados, distribuidos, vendidos e suportados..." - Tim Brow
+
+> FAÇA COISAS QUE AS PESSOAS GOSTAM > FAÇA PESSOAS GOSTAREM DE COISAS
+
+
+
 
 # Referencias
 
