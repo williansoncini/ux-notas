@@ -893,7 +893,7 @@ Pontos de atenção
 
 *By Frabicio Teixeira*
 
-![Download do arquivo PDF](/files/checklist-de-ux-arquitetura-da-informaao_compress.pdf)
+[Download do arquivo PDF](/files/checklist-de-ux-arquitetura-da-informaao_compress.pdf)
 
 ##### Simplicidade
 
