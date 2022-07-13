@@ -84,6 +84,8 @@
   - [MVP](#mvp)
 - [Processos de trabalho - Lean UX: Base e princípios](#processos-de-trabalho---lean-ux-base-e-princípios)
   - [Base Design Thinking](#base-design-thinking)
+  - [Base metodologias ageis](#base-metodologias-ageis)
+  - [Base Lean Startup](#base-lean-startup)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -1240,6 +1242,24 @@ Google analytics pode ajudar \o/
 > "inovação catalizada pela direta observação do que as pessoas querem e precisam em suas vidas e o que elas gostam ou não gostam sobre uma forma particular de como os produtos são criados, empacotados, distribuidos, vendidos e suportados..." - Tim Brow
 
 > FAÇA COISAS QUE AS PESSOAS GOSTAM > FAÇA PESSOAS GOSTAREM DE COISAS
+
+## Base metodologias ageis
+
+- Engajar todo o time
+- Entregar com mais velociodade
+- Gerar conhecimento
+- Responder a mudanças
+
+![](images/manifesto-agil.jpg)
+
+## Base Lean Startup
+
+- Minimizar o risco do projeto
+- Medir se o proejto está indo para o caminho certo ou não
+
+Tem tudo haver com o bussines model canvas citado nas linhas mais a cima :3
+
+
 
 
 
