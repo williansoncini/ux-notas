@@ -81,6 +81,7 @@
   - [Base line - Linha de base](#base-line---linha-de-base)
   - [HEART - Framework de métricas de UX](#heart---framework-de-métricas-de-ux)
     - [Como implantar?](#como-implantar)
+  - [MVP](#mvp)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -1171,6 +1172,60 @@ Google analytics pode ajudar \o/
   - Reavalie periodicamente
 
 ![](images/heart-ux.png)
+
+## MVP 
+
+> Técnica para sair do estágio inicial com mais segurança
+
+- Testar a visão do negócio
+- Entregar valor aos clientes o mais cedo possível
+- Reduzir o desperdício de horas inúteis de desenvolvimento
+- Reduzir o risco do projeto
+
+> conjunto de testes para validar a viabilidade do negócio. São experimentos com alguns clientes para testar um conceito.
+
+> NÃO É UM PRODUTO INCABADO E NEM O FINAL
+
+> É um produto completo e livre de bugs, todavia, menor que sua visão final
+
+*Respostas que o MVP pode trazer para o negócio*
+
+- Existe real necessidade da solução que estamos desenhando?
+- Existe valor nas funcionalidade que vamos oferecer?
+- Minha solução tem usabilidade?
+
+*Como começar um MVP?*
+
+- Seja claro e conciso
+- Priorize impiodasamente
+- Sejá agil
+- Meça comportamentos
+- Use call to actions 
+- Integre com analytics
+- Seja consistente com o resto da aplicação
+
+*Dicas*
+
+- Comece com pesquisas, landing pages
+- Colete números que te dêem segurança do que você vai construir
+- Só então, invista no MVP em forma de software
+
+*Exemplos*
+
+- Pesquisas online
+- Landing pages
+- Teste A/B
+- Protótipos de baixa, média e alta fidelidade
+- Concierge
+- Produtos com funcionalidades mínimas, porém úteis
+
+> "O mínimo produto viável é a versão de um novo produto que permite ao time o mair volume de aprendizado validado sobre os clientes com o mínimo de esforço" - Eric Ries
+
+> "Um MVP deve ser concebido não apenas para responder questões sobre o design do produto e questões técnicas; Seu objetivo é testar hipóteses fundamentais do negócio" - Eric Ries
+
+> "Se você não tem vergonha da primeira versão do seu produto, você demorou demais para lançar" - Reid Hoffman
+
+![](images/MVP.png)
 
 # Referencias
 
