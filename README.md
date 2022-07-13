@@ -86,6 +86,11 @@
   - [Base Design Thinking](#base-design-thinking)
   - [Base metodologias ageis](#base-metodologias-ageis)
   - [Base Lean Startup](#base-lean-startup)
+  - [SCRUM - Termos e papéis](#scrum---termos-e-papéis)
+    - [Atores](#atores)
+    - [Sprint](#sprint)
+    - [Backlog do produto](#backlog-do-produto)
+    - [Backlog da sprint](#backlog-da-sprint)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -1259,10 +1264,43 @@ Google analytics pode ajudar \o/
 
 Tem tudo haver com o bussines model canvas citado nas linhas mais a cima :3
 
+## SCRUM - Termos e papéis
 
+> É importante entender que todas as partes envolvidas na produção do produto são importantes, sendo assim, todas as pessoas devem colaborar tendo em vista a entrega do ciclo agíl.
+> 
+> Vale salientar que hirarquias aqui não devem ser vistas como impedidores/ditadores, todos devem se ajudar para produzirem o produto. Cada um desempenhando seu papel, porém de forma **ultra colaborativa**.
 
+### Atores
 
+- **Time de desenvolvimento** - Auto-organizada e multidisciplinar. Pessoas que desenvolvem e testam.
+- **Product owner** (Dono do produto) - Responsável por entender a necessidade do usuário/cliente e trazer isso de maneira organizada e já priorizada tendo em base aquilo que vai trazer melhor resultado para o negócio. (Campo)
+  - > O product owner é o dono do produto. Ele fornece o conhecimento do negócio em forma de requisitos para a equipe assim como sua ordem de aplicação
+- **Scrum master** - Garante a cultura ágil e o desbloqueio de impedimentos. Quando o time está falhando ele é o responsável por dar uma mão ao time, ele deve garantir que todas as partes envolvidas na produção do produto, consigam entregar um trabalho com qualidade. 
 
+A equipe deve descutir aquilo que o P.O trouxe, tendo o objetivo de ajuda-lo a tomar decisões melhores, sempre em relação ao cliente e o negócio.
+
+### Sprint
+
+Ciclos de desenvolvimento
+
+### Backlog do produto
+
+Conjunto de coisas a serem priorizadas e desenvolvidas.
+
+Coloque somente aquilo que você quer ver com 20 % de esforço resolver 80 % do problema. Traga somente as coisas importantes, que vão entregar valor
+
+### Backlog da sprint
+
+Contrato que o time estabelece do que será entregue em um ciclo de desenvolvimento.
+
+A sprint deve ser previsivel, tendo uma super facilidade de estimar prazos, custos e etc... Já que é baseada em um periodo curto de tempo.
+
+- Sprints não devem ser quebradas
+- Aquilo que foi acordado é aquilo que deve ser entregue
+- Quando uma nova atividade tem que ser encaixada a todo custo em uma sprint, o P.O deve cancelar a sprint reorganizar e começar uma nova, devido a falha no planejamento de todas as partes.
+- Deve ser criterioso com o contrato da sprint.
+
+![](images/sprint.png)
 
 # Referencias
 
