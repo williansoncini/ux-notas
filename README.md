@@ -108,6 +108,10 @@
     - [Apender antes de escalar](#apender-antes-de-escalar)
     - [Permissão para falhar](#permissão-para-falhar)
     - [Saia do negócio de entregáveis](#saia-do-negócio-de-entregáveis)
+  - [Visão prototipação e valor](#visão-prototipação-e-valor)
+    - [Principais conceitos](#principais-conceitos)
+    - [Preparação](#preparação)
+    - [Definição de problema](#definição-de-problema)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -1445,6 +1449,71 @@ O time deve focar em funcionalidades que trazem impacto para o cliente.
 Quando se cria um produto é necessário ter sua documentação de funcionalidades, isso sim é necessário.
 
 Se você conseguiu comunicar sua ideia, pronto! É isso que você precisa, não perca tempo passando toda essa etapa de comunicação de ideia para um photoshop bonito ou coisa do tipo. Isso não é oque vai resolver o problema do usuário. Foque em funcionalidades e posteriormente na documentação da regra de negócio para o cliente, isso sim gerará um valor verdadeiro para o cliente.
+
+## Visão prototipação e valor
+
+- Ideias melhores
+- Entregas contínuas (testes)
+- Erros tornam-se aprendizados
+- Redução de dúvidas
+  
+### Principais conceitos
+
+"Criação de entregáveis" VS "**Mudar o mundo**"
+
+*Caminho a ser trilhado*
+
+- Alinhamento (**Gerar consenso**)
+  - Mapas de jornada do usuário
+  - BluePrints
+  - Duplo diamante
+  - ...
+- Problema
+  - Deixar claro qual é a razão de um objetivo não estar sendo atingido
+- Suposições
+  - Oque acredita de verdade
+- Hipóteses
+  - Crença quebrada em um formato testável
+- Valor
+  - Sinal que o mercado te entrega, para validar se está no caminho certo. (Quantitativo ou qualitativo)
+- Personas
+  - Modelo de pessoa da qual você acredita estar resolvendo um problema
+- Funcionalidades
+  - Inovações que acreditamos que gerarão o valor para o nosso usuário
+
+> Nunca trate suposições como fatos!
+> 
+> Dê voz a todos do time!
+
+### Preparação
+
+> Avise a todos com antecedência qual problema tentarão atacar
+
+- Como o produto é usado hoje
+- comportamento comuns
+- Tentativas de solução anteriores
+- Por que resolver o problema melhora a performance do negócio?
+- Benchmarking - como os competidores resolvem?
+
+### Definição de problema
+
+> Definição do objetivo o que impede o objetivo ser atingido e quando você saberá que o objetivo foi atingido
+
+> Qual é o pedido explicito de melhoria?
+
+*Modelo que pode ser seguido*
+
+"Nosso **PRODUTO OU SERVIÇO**" foi desenhado par atingir "**ESSES OBJETIVOS**".
+
+Nós observamos que quando o "**PRODUTO OU SERVIÇO**" não atinge "**ESSES OBJETIVOS**", isso causa "**ESSES EFEITOS ADVERSOS**" para o nosso negócio.
+
+Como nós poderíamos melhorar esses "**SERVIÇO OU PRODUTO**" para que nossos usuários tivessem mais sucesso baseado em "**ESSES CRITÉRIOS DE MEDIDA E MONITORAMENTO**"
+
+
+
+
+
+
 
 # Referencias
 
