@@ -91,6 +91,7 @@
     - [Sprint](#sprint)
     - [Backlog do produto](#backlog-do-produto)
     - [Backlog da sprint](#backlog-da-sprint)
+    - [Ritos](#ritos)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -1301,6 +1302,15 @@ A sprint deve ser previsivel, tendo uma super facilidade de estimar prazos, cust
 - Deve ser criterioso com o contrato da sprint.
 
 ![](images/sprint.png)
+
+### Ritos
+
+- Preparação (Grooming)
+- Planejamento
+- Reunião diária (5 a 10 minutos)
+- Demonstração para o usuário
+- Retrospectiva
+  - Validar problemas para melhorar e ganhar maior quantidade
 
 # Referencias
 
