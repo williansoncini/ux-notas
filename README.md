@@ -118,6 +118,7 @@
     - [Valor - Objetivos](#valor---objetivos)
     - [Personas](#personas-1)
     - [Funcionalidades](#funcionalidades)
+    - [Protótipos](#protótipos-1)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -1658,6 +1659,62 @@ Que funcionalidades, produtos e serviços podemos oferecer?
 - Preciso de:
 - Para:
 
+### Protótipos
+
+**Baixa fidelidade**
+
+Prós
+- Pode ser feito em hora
+- Fácil de reorganizer
+- Barato
+- Feito com materiais de escritório
+- Atividade divertida, as pessoas gostam de serem criativas
+
+Contra
+- Rápida iteração e duplicação do protótipo pode ser entediante
+- Simulação muito artificial (Sem mouse, sem teclado)
+- Feedback limitado ao alto nível do fluxo estrutural
+
+**WireFrame**
+
+Baixa fidelidade e clicável
+
+Prós
+- Bom senso de tamanho de fluxo
+- Revela os maiores obstáculos para completar a tarefa
+- Permite avaliação da encontrabilidade do principal
+- Já é a primeira abordagem clicável mais rápida
+
+Contras
+- Muitas pessoas não entenderão que é um produto inacabado
+- Mais atenção que o normal é dada ao labeling
+
+**Média e alta fidelidade**
+
+Prós
+- Protótipos de alta qualidade e realidade
+- Elementos visuais da marca podem ser testados
+- O workflow e as interações da interface podem ser testadas  
+
+Contra
+- A interatividade ainda é mais limitada que produto nativos
+- Usuário não interage com dados reais
+- Dependendo da ferramenta pode tomar muito tempo
+- Manter atualizações são muito custosas
+
+**Protótipo codado**
+
+Prós
+- Reuso potencial do código
+- Simulação mais realista possível
+- Pode ser gerado a partir de guia de estilos
+- Pode trabalhar com dados JSON
+
+Contra
+- O time vai demorar para debater ajustes finos
+- Consome muito tempo comparado aos outros
+- Há problema de tentar melhorar o código antes de avaliar com usuários
+- Atualizações demanda muito tempo
 
 # Referencias
 
