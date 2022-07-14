@@ -114,6 +114,8 @@
     - [Definição de problema](#definição-de-problema)
     - [Suposições](#suposições)
     - [Priorização](#priorização)
+    - [Hipóteses](#hipóteses)
+    - [Valor - Objetivos](#valor---objetivos)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -1563,8 +1565,60 @@ ALTO RISCO - POUCA CERTEZA = Vai validar muito forte isso aqui! Se estiver errad
 (BAIXO RISCO - MUITA CERTEZA) - Eu acredito que muitas pessoas gostam de andar de bicicleta 
 (BAIXO RISCO - POUCA CERTEZA) - Eu acredito que muitas pessoas usam bicicletas caras 
 (ALTO RISCO - MUITA CERTEZA) - Eu acredito que as pessoas tem medo de ter a bicicleta roubada 
-(ALTO RISCO - POUCA CERTEZA) - Eu acredito que as pessoas pagariam por um seguro de bicicleta 
-(ALTO RISCO - POUCA CERTEZA) - Eu acredito que seguro de bicicleta é um oceano azul 
+(**ALTO RISCO - POUCA CERTEZA**) - Eu acredito que as pessoas pagariam por um seguro de bicicleta 
+(**ALTO RISCO - POUCA CERTEZA**) - Eu acredito que seguro de bicicleta é um oceano azul 
+
+### Hipóteses
+
+> Para a suposição se tornar um fato, você precisa validá-la. A hipótese garante que você faça isso utilizando mais razão e menos emoção.
+
+Qual sinal você precisa para ter mais certeza de que está certo?
+
+Nós acreditamos que [essa declaração é verdadeira].
+Nós saberemos que estamos [certos/errados]
+quando tivermos esse feedback do mercado
+[feedback qualitativo] ou [feedback quantitativo] ou
+[ou mudança de KPI (indicador de performance)].   
+
+*Exemplo*
+
+Nós acreditamos que:
+
+A complexidade do peticionamento gera dados ruins que atrasam o trâmite processual
+
+Nós saberemos que isso é verdadeiro se:
+
+- 30% das dúvidas ou reclamações forem sobre como peticionar 
+- 80% dos formulários estiverem com preenchimento errado 
+- 30% dos atendimentos do call center forem sobre peticionar
+
+
+### Valor - Objetivos
+
+- Valor (Negócio e usuário)
+- Personas
+- Funcionalidades
+
+> Valor é o beneficio que você quer entregar.
+
+*Valor para o usuário*
+
+É possível facilitar que as pessoas entendam melhor a constituição e a jurisprudência? 
+- **% de buscas com sucesso**
+  
+É possível levar a informação dos livros do STF ao conhecimento de mais pessoas?
+- **Downloads**
+
+**Valor para o negócio:**
+
+É possível aumentar o número de usuário premium?
+- % usuários premium
+
+É possível aumentar o número de usuários recorrentes?
+- retuning/new visitors
+
+É possível aumentar o LTV?
+- R$ LTV
 
 # Referencias
 
