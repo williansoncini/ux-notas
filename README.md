@@ -42,7 +42,7 @@
   - [Canais de feedbacks](#canais-de-feedbacks)
   - [Entrevista de usabilidade](#entrevista-de-usabilidade)
   - [Pesquisas qualitativas](#pesquisas-qualitativas)
-- [Métdodos e ferramentas: Desenho de interface](#métdodos-e-ferramentas-desenho-de-interface)
+- [Métodos e ferramentas: Desenho de interface](#métodos-e-ferramentas-desenho-de-interface)
   - [sketches, Wireframes, Protótipos e Guias de Estilos](#sketches-wireframes-protótipos-e-guias-de-estilos)
     - [sketches](#sketches)
     - [Wireframe](#wireframe)
@@ -64,7 +64,7 @@
         - [Simplicidade](#simplicidade)
         - [Acionável](#acionável)
         - [Inteligente](#inteligente)
-        - [Agradavél](#agradavél)
+        - [Agradável](#agradável)
         - [Relevante](#relevante)
   - [Métricas de sucesso](#métricas-de-sucesso)
     - [Google Analytics](#google-analytics)
@@ -84,7 +84,7 @@
   - [MVP](#mvp)
 - [Processos de trabalho - Lean UX: Base e princípios](#processos-de-trabalho---lean-ux-base-e-princípios)
   - [Base Design Thinking](#base-design-thinking)
-  - [Base metodologias ageis](#base-metodologias-ageis)
+  - [Base metodologias ágeis](#base-metodologias-ágeis)
   - [Base Lean Startup](#base-lean-startup)
   - [SCRUM - Termos e papéis](#scrum---termos-e-papéis)
     - [Atores](#atores)
@@ -92,6 +92,8 @@
     - [Backlog do produto](#backlog-do-produto)
     - [Backlog da sprint](#backlog-da-sprint)
     - [Ritos](#ritos)
+  - [Lean UX](#lean-ux)
+    - [Equipes multidisciplinares](#equipes-multidisciplinares)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -135,7 +137,7 @@ Publico estratégico. Pessoas ou grupo que tem interesse no seu negócio.
 
 ## Future Press Releases
 
-Ferramenta utilizada na comunicação para distribuir em diversos canais de midia uma visão única sobre determinado assunto. No UX é utilizada para estabelecer uma visão de futuro representando como seria o dia em que o produto foi lançado.
+Ferramenta utilizada na comunicação para distribuir em diversos canais de mídia uma visão única sobre determinado assunto. No UX é utilizada para estabelecer uma visão de futuro representando como seria o dia em que o produto foi lançado.
 
 - Estabelecer uma visão de futuro do produto
 - Gerar consenso com a equipe
@@ -351,7 +353,7 @@ O lightning talk é uma apresentação curta. Uma apresentação relâmpago. Vá
 
 ![Untitled](images/Untitled%206.png)
 
-> 💡 Utilize o duplo diamente quando precisar gerar ideias que saiam do senso comum, mas sem se perder o rumo como sessões de brainstorming convenciaonais.
+> 💡 Utilize o duplo diamante quando precisar gerar ideias que saiam do senso comum, mas sem se perder o rumo como sessões de brainstorming convencionais.
 
 ## HMW - Como nós poderíamos?
 
@@ -678,7 +680,7 @@ Coisas para ficar antenado
 
 [https://www.typeform.com/](https://www.typeform.com/)
 
-# Métdodos e ferramentas: Desenho de interface
+# Métodos e ferramentas: Desenho de interface
 
 ## sketches, Wireframes, Protótipos e Guias de Estilos
 
@@ -847,7 +849,7 @@ Pontos de atenção
 
 #### Simplificação de formulários
 
-- Apresentar os conteudos aos poucos para o usuário
+- Apresentar os conteúdos aos poucos para o usuário
 - Não colocar todas as informações em uma única tela
 - Pensar em fluxos de informações que facilite para o usuário
 
@@ -858,7 +860,7 @@ Pontos de atenção
   - Botões
   - Links
   - ...
-- Evite erros antes que acontecam, prevenir o usuário de enviar informações que podem causar erros é necessário
+- Evite erros antes que aconteçam, prevenir o usuário de enviar informações que podem causar erros é necessário
 
 #### Tempo do usuário
 
@@ -882,19 +884,19 @@ Pontos de atenção
 
 - Expresse a personalidade da marca
   - Logos
-  - Icones
+  - Ícones
   - Mascotes
 - Lembre-se dos microtextos
   - Like unlike
   - Postado há 3 horas em vez de postado 10/07/2022 15:00
-- Comunique beneficios e não funcionalidades
-- Fale a linguage do usuário
+- Comunique benefícios e não funcionalidades
+- Fale a linguagem do usuário
 
 #### Checklist de UX
 
 *By Frabicio Teixeira*
 
-[Download do arquivo PDF](/files/checklist-de-ux-arquitetura-da-informaao_compress.pdf)
+[Download do arquivo PDF](/files/checklist-de-ux-arquitetura-da-informa%C3%A7%C3%A3o_compress.pdf)
 
 ##### Simplicidade
 
@@ -902,10 +904,10 @@ Pontos de atenção
 - Revelar
 - Simplificar
 - Padronizar
-- Priozirar
+- Priorizar
 - Adiar
 - Testar
-- Analizar
+- Analisar
 
 ##### Acionável
 
@@ -927,7 +929,7 @@ Pontos de atenção
 - Extrapolar
 - Personalizar
 
-##### Agradavél
+##### Agradável
 
 - Humanizar
 - Considerar
@@ -971,10 +973,10 @@ https://rafaelcosta.jusbrasil.com.br/artigos/454529208/o-jusbrasil-pode-acabar-e
     - Número de produtos vendidos
     - Usuários ativos
     - Engajamento
-    - Custo de arquisição de cliente
+    - Custo de aquisição de cliente
     - Receita e lucro
 
-> Não seja enganado por suas métricas, faça uma nálise critica se elas são verdadeiras.
+> Não seja enganado por suas métricas, faça uma análise critica se elas são verdadeiras.
 
 ### KPI
 
@@ -996,12 +998,12 @@ https://rafaelcosta.jusbrasil.com.br/artigos/454529208/o-jusbrasil-pode-acabar-e
   - Redistribuições
   - Reclassificações
   - Desaprovações
-  - Prças com defeito
-  - Undeply
+  - Praças com defeito
+  - Undeploy
   - Reclamações
 - Indicadores de capacidade
   - Quantidade de processos analisados por dia por área
-  - Quantidade processos anlisados por dia por pessoa
+  - Quantidade processos analisados por dia por pessoa
   - Quantidade de folhas impressas por minuto
 - Indicadores estratégicos
   - Aumentar o % de empresas utilizando o produto
@@ -1028,7 +1030,7 @@ Imagem super completa
 
 ## CTR - Click through rate
 
-> Número de vezes que o usuário cliccou em seu anúncio ou call to action em relação ao total de vezes que esse elemento foi exibido para ele
+> Número de vezes que o usuário clicou em seu anúncio ou call to action em relação ao total de vezes que esse elemento foi exibido para ele
 
 CTR = Total de cliques / Total de exibições * 100
 
@@ -1038,13 +1040,13 @@ Oque fazer quando o CTR é abaixo do esperado?
 - Incluir imagens que tocam o usuário
 - Melhora o call to action todo
 
-> Fazer o CTR por etapadas vai te ajudar a passar o pente fino quando necessário
+> Fazer o CTR por etapas vai te ajudar a passar o pente fino quando necessário
 
 ## DAU - Daily active users
 
 > Usuários ativos diariamente mede o quanto você consegue fidelizar seus usuários.
 
-> Usuários ativos devem ser medidos de acordo com suas ações na empresa em determinado periodo
+> Usuários ativos devem ser medidos de acordo com suas ações na empresa em determinado período
 
 Também existem
 
@@ -1076,7 +1078,7 @@ Como reduzir o chrun?
 
 ## Growth rate - Taxa de crescimento
 
-> Número de novos usuarios mensal pelo numero de usuario ativos
+> Número de novos usuários mensal pelo numero de usuário ativos
 
 **O GROWTH RATE SEMPRE DEVE SER MAIOR QUE O CHURN RATE**
 
@@ -1101,7 +1103,7 @@ LTV = R$ 600,00
 
 ### CAC
 
-> CAC é o custo de aquição de cliente, ou quanto custa "Comprar um cliente".
+> CAC é o custo de aquisição de cliente, ou quanto custa "Comprar um cliente".
 
 > O CAC - Custo de aquisição por cliente sempre deve ser menor que o LTV, beeeeeeeeeeem menor @-@
 
@@ -1115,7 +1117,7 @@ LTV = R$ 1000,00
 
 CAC entre R$ 200 e R$ 333
 
-> Se lembre de aviliar o CAC com base na aquisição do seu produto.
+> Se lembre de avaliar o CAC com base na aquisição do seu produto.
 
 ## Base line - Linha de base
 
@@ -1138,10 +1140,10 @@ Google analytics pode ajudar \o/
 
 ## HEART - Framework de métricas de UX
 
-> Heart é um acronomo
+> Heart é um acrônimo
 
 - Happiness - Felicidade
-  - Satisfação do usuáriio
+  - Satisfação do usuário
   - NPS
 - Engagement - Engajamento
   - Atividades do usuário
@@ -1149,15 +1151,15 @@ Google analytics pode ajudar \o/
   - Interações
 - Adoption - Adoção
   - Novos usuários
-  - Uso de novas funcinalidades
+  - Uso de novas funcionalidades
   - Growth rate (Taxa de crescimento)
 - Retention - Retenção
   - % ativo / unidade de tempo
-  - Churn rate (Taxa de sáida)
+  - Churn rate (Taxa de saída)
   - LTV (Valor do tempo de vida do cliente)
     - Gamificação
     - Bonificações
-    - Prémios
+    - Prêmios
     - Melhor atendimento (Customer service)
     - O que fazer para garantir que o cliente fique mais tempo com você?
 - Task Success = Sucesso
@@ -1194,7 +1196,7 @@ Google analytics pode ajudar \o/
 
 > conjunto de testes para validar a viabilidade do negócio. São experimentos com alguns clientes para testar um conceito.
 
-> NÃO É UM PRODUTO INCABADO E NEM O FINAL
+> NÃO É UM PRODUTO INACABADO E NEM O FINAL
 
 > É um produto completo e livre de bugs, todavia, menor que sua visão final
 
@@ -1207,8 +1209,8 @@ Google analytics pode ajudar \o/
 *Como começar um MVP?*
 
 - Seja claro e conciso
-- Priorize impiodasamente
-- Sejá agil
+- Priorize impiedosamente
+- Seja ágil
 - Meça comportamentos
 - Use call to actions 
 - Integre com analytics
@@ -1217,7 +1219,7 @@ Google analytics pode ajudar \o/
 *Dicas*
 
 - Comece com pesquisas, landing pages
-- Colete números que te dêem segurança do que você vai construir
+- Colete números que te deem segurança do que você vai construir
 - Só então, invista no MVP em forma de software
 
 *Exemplos*
@@ -1245,31 +1247,31 @@ Google analytics pode ajudar \o/
 - Observar o contexto
 - Propor soluções
 
-> "inovação catalizada pela direta observação do que as pessoas querem e precisam em suas vidas e o que elas gostam ou não gostam sobre uma forma particular de como os produtos são criados, empacotados, distribuidos, vendidos e suportados..." - Tim Brow
+> "inovação catalisada pela direta observação do que as pessoas querem e precisam em suas vidas e o que elas gostam ou não gostam sobre uma forma particular de como os produtos são criados, empacotados, distribuídos, vendidos e suportados..." - Tim Brow
 
 > FAÇA COISAS QUE AS PESSOAS GOSTAM > FAÇA PESSOAS GOSTAREM DE COISAS
 
-## Base metodologias ageis
+## Base metodologias ágeis
 
 - Engajar todo o time
-- Entregar com mais velociodade
+- Entregar com mais velocidade
 - Gerar conhecimento
 - Responder a mudanças
 
-![](images/manifesto-agil.jpg)
+![](images/manifesto-%C3%A1gil.jpg)
 
 ## Base Lean Startup
 
 - Minimizar o risco do projeto
-- Medir se o proejto está indo para o caminho certo ou não
+- Medir se o projeto está indo para o caminho certo ou não
 
-Tem tudo haver com o bussines model canvas citado nas linhas mais a cima :3
+Tem tudo haver com o business model canvas citado nas linhas mais a cima :3
 
 ## SCRUM - Termos e papéis
 
-> É importante entender que todas as partes envolvidas na produção do produto são importantes, sendo assim, todas as pessoas devem colaborar tendo em vista a entrega do ciclo agíl.
+> É importante entender que todas as partes envolvidas na produção do produto são importantes, sendo assim, todas as pessoas devem colaborar tendo em vista a entrega do ciclo ágil.
 > 
-> Vale salientar que hirarquias aqui não devem ser vistas como impedidores/ditadores, todos devem se ajudar para produzirem o produto. Cada um desempenhando seu papel, porém de forma **ultra colaborativa**.
+> Vale salientar que hierarquia aqui não devem ser vistas como impedidores/ditadores, todos devem se ajudar para produzirem o produto. Cada um desempenhando seu papel, porém de forma **ultra colaborativa**.
 
 ### Atores
 
@@ -1278,7 +1280,7 @@ Tem tudo haver com o bussines model canvas citado nas linhas mais a cima :3
   - > O product owner é o dono do produto. Ele fornece o conhecimento do negócio em forma de requisitos para a equipe assim como sua ordem de aplicação
 - **Scrum master** - Garante a cultura ágil e o desbloqueio de impedimentos. Quando o time está falhando ele é o responsável por dar uma mão ao time, ele deve garantir que todas as partes envolvidas na produção do produto, consigam entregar um trabalho com qualidade. 
 
-A equipe deve descutir aquilo que o P.O trouxe, tendo o objetivo de ajuda-lo a tomar decisões melhores, sempre em relação ao cliente e o negócio.
+A equipe deve discutir aquilo que o P.O trouxe, tendo o objetivo de ajuda-lo a tomar decisões melhores, sempre em relação ao cliente e o negócio.
 
 ### Sprint
 
@@ -1294,7 +1296,7 @@ Coloque somente aquilo que você quer ver com 20 % de esforço resolver 80 % do 
 
 Contrato que o time estabelece do que será entregue em um ciclo de desenvolvimento.
 
-A sprint deve ser previsivel, tendo uma super facilidade de estimar prazos, custos e etc... Já que é baseada em um periodo curto de tempo.
+A sprint deve ser previsível, tendo uma super facilidade de estimar prazos, custos e etc... Já que é baseada em um período curto de tempo.
 
 - Sprints não devem ser quebradas
 - Aquilo que foi acordado é aquilo que deve ser entregue
@@ -1311,6 +1313,14 @@ A sprint deve ser previsivel, tendo uma super facilidade de estimar prazos, cust
 - Demonstração para o usuário
 - Retrospectiva
   - Validar problemas para melhorar e ganhar maior quantidade
+
+![](images/Scrum_Poster_V2.1%20-%20Smaller%20Size.png)
+
+## Lean UX
+porque nao pode 
+### Equipes multidisciplinares
+
+A equipe precisa saber de todos os aspectos. Para buscar trabalhar de forma paralela o máximo possível.
 
 # Referencias
 
@@ -1337,7 +1347,7 @@ A sprint deve ser previsivel, tendo uma super facilidade de estimar prazos, cust
 
 **O analista do modelo de negócios. -** [https://analistamodelosdenegocios.com.br/shop/](https://analistamodelosdenegocios.com.br/shop/)
 
-**Desing sprints -** [https://pt.slideshare.net/br2msi/google-design-sprint](https://pt.slideshare.net/br2msi/google-design-sprint)
+**Design sprints -** [https://pt.slideshare.net/br2msi/google-design-sprint](https://pt.slideshare.net/br2msi/google-design-sprint)
 
 **Moodboard -** [http://www.cutedrop.com.br/2011/03/mood-board/](http://www.cutedrop.com.br/2011/03/mood-board/)
 
@@ -1363,7 +1373,7 @@ Design Thinking - [https://designthinking.ideo.com/search/?q=how-might-we](https
 
 **NPS -** [https://satisfacaodeclientes.com/o-que-o-net-promoter-score/](https://satisfacaodeclientes.com/o-que-o-net-promoter-score/)
 
-**DAU - h**ttps://blog.innertrends.com/active-users-2/
+**DAU -** https://blog.innertrends.com/active-users-2/
 
 **Churn -** [https://www.asaas.com/blog/entendendo-o-que-e-churn-rate-e-porque-ele-e-importante-para-sua-startup-saas/](https://www.asaas.com/blog/entendendo-o-que-e-churn-rate-e-porque-ele-e-importante-para-sua-startup-saas/)
 
