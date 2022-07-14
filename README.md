@@ -116,6 +116,8 @@
     - [Priorização](#priorização)
     - [Hipóteses](#hipóteses)
     - [Valor - Objetivos](#valor---objetivos)
+    - [Personas](#personas-1)
+    - [Funcionalidades](#funcionalidades)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -1592,7 +1594,6 @@ Nós saberemos que isso é verdadeiro se:
 - 80% dos formulários estiverem com preenchimento errado 
 - 30% dos atendimentos do call center forem sobre peticionar
 
-
 ### Valor - Objetivos
 
 - Valor (Negócio e usuário)
@@ -1613,12 +1614,50 @@ Nós saberemos que isso é verdadeiro se:
 
 É possível aumentar o número de usuário premium?
 - % usuários premium
-
+****
 É possível aumentar o número de usuários recorrentes?
 - retuning/new visitors
 
 É possível aumentar o LTV?
 - R$ LTV
+
+### Personas
+
+Modelo para criação de persona
+
+![](images/PERSONAS.png)
+
+### Funcionalidades
+
+A partir dos valores e das personas:
+
+Que funcionalidades, produtos e serviços podemos oferecer?
+
+> No Lean UX, as funcionalidades existem para servir as necessidades no negócio, do cliente e do usuário
+
+*Modelo:*
+
+- Nos vamos [Criar essa funcionalidade]
+- Para [Essa Persona]
+- Para ela conseguir [Esse valor]
+- E meu negócio conseguir [Esse valor]
+  
+*Exemplo:*
+
+- Nos valore criar sugestões de preços
+- Para Dona Raimunda
+- PAra ela conseguir não perder dinheiro nas vendas
+- E meu negócio conseguir manter o usuário ativo por 10% mais tempo (LTV)
+
+> Mas se lembre que é necessário validar a hipóteses
+
+> VocÊ precisará transformar a tabela de funcionalidades em job story antes de passar para o time de construção
+
+- Como: [Empresa/Estado atual]
+- Quando estou:
+- Preciso de:
+- Para:
+
 
 # Referencias
 
