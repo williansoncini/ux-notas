@@ -112,6 +112,8 @@
     - [Principais conceitos](#principais-conceitos)
     - [Preparação](#preparação)
     - [Definição de problema](#definição-de-problema)
+    - [Suposições](#suposições)
+    - [Priorização](#priorização)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -1509,11 +1511,60 @@ Nós observamos que quando o "**PRODUTO OU SERVIÇO**" não atinge "**ESSES OBJE
 
 Como nós poderíamos melhorar esses "**SERVIÇO OU PRODUTO**" para que nossos usuários tivessem mais sucesso baseado em "**ESSES CRITÉRIOS DE MEDIDA E MONITORAMENTO**"
 
+### Suposições
+
+> Tudo que você não validou com os usuários é apenas uma suposição
+
+*Modelo*
+
+Eu acredito que meus usuários precisam de: 
+Essas necessidades podem ser resolvidas com: 
+Meus usuários iniciais são (ou serão): 
+O Valor #1 que o usuário quer do meu serviço é: 
+O usuário também pode ter os seguintes benefícios: 
+A maioria dos meus usuários serão conquistados por: 
+Eu farei dinheiro/gerarei benefício assim: 
+Meu principal competidor/similar no mercado é: 
+Eu serei melhor que eles assim: 
+O maior risco do meu produto é: 
+Nós resolveremos esse risco assim: 
+Que outras suposições temos que, se provadas falsas, falham o projeto?
+
+*Exemplo*
+
+Eu acredito que a maioria dos usuários do STF são Advogados e Cidadãos 
+Eu acredito que um processo eletrônico é julgado mais rápido que um processo físico 
+Eu acredito que exibindo sugestões de preços, os empreendedores vão utilizar e lucrar mais 
 
 
+*Suposições para descobrir quem é o usuário*
 
+Como o nosso produto se encaixa na vida desse usuário? 
+Que problemas esse produto resolve? 
+Quando e como esse produto é usado? 
+Que funcionalidades são importantes? 
+Como nosso produto deve parecer ou se comportar?
 
+### Priorização
 
+> A lista de suposições será sempre extensa. Você precisa priorizar.
+>
+> RISCO X CONHECIMENTO 
+
+![](images/RISCO_X_CERTEZA.png.png)
+
+POUCO RISCO - MUITA CERTEZA = Tranquilo nem precisa validar
+POUCO RISCO - POUCA CERTEZA = Vale a pena validar
+ALTO RISCO - MUITA CERTEZA = Tem que tomar cuidado, pois isso pode invalidar seu negócio
+ALTO RISCO - POUCA CERTEZA = Vai validar muito forte isso aqui! Se estiver errado o negócio é invalidado. E você pode tomar um baita prejuízo.
+
+*Exemplo:*
+
+(BAIXO RISCO - MUITA CERTEZA) - Eu acredito que muitas pessoas gostam de andar de bicicleta 
+(BAIXO RISCO - POUCA CERTEZA) - Eu acredito que muitas pessoas usam bicicletas caras 
+(ALTO RISCO - MUITA CERTEZA) - Eu acredito que as pessoas tem medo de ter a bicicleta roubada 
+(ALTO RISCO - POUCA CERTEZA) - Eu acredito que as pessoas pagariam por um seguro de bicicleta 
+(ALTO RISCO - POUCA CERTEZA) - Eu acredito que seguro de bicicleta é um oceano azul 
 
 # Referencias
 
