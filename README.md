@@ -94,6 +94,20 @@
     - [Ritos](#ritos)
   - [Lean UX](#lean-ux)
     - [Equipes multidisciplinares](#equipes-multidisciplinares)
+    - [Times pequenos, dedicados, juntos](#times-pequenos-dedicados-juntos)
+    - [Progresso é valor, não é só entregáveis](#progresso-é-valor-não-é-só-entregáveis)
+    - [Times focados em problemas](#times-focados-em-problemas)
+    - [Remova o desperdício](#remova-o-desperdício)
+    - [Pequenas entregas](#pequenas-entregas)
+    - [Entrega continua](#entrega-continua)
+    - [Saia do prédio](#saia-do-prédio)
+    - [Conhecimento compartilhado](#conhecimento-compartilhado)
+    - [Times nivelados sem rockstars](#times-nivelados-sem-rockstars)
+    - [Externalize o trabalho](#externalize-o-trabalho)
+    - [Criar > Analisar](#criar--analisar)
+    - [Apender antes de escalar](#apender-antes-de-escalar)
+    - [Permissão para falhar](#permissão-para-falhar)
+    - [Saia do negócio de entregáveis](#saia-do-negócio-de-entregáveis)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -1318,9 +1332,119 @@ A sprint deve ser previsível, tendo uma super facilidade de estimar prazos, cus
 
 ## Lean UX
 porque nao pode 
+
 ### Equipes multidisciplinares
 
-A equipe precisa saber de todos os aspectos. Para buscar trabalhar de forma paralela o máximo possível.
+A equipe precisa saber de todos os aspectos do projeto, buscado trabalhar o máximo possível de forma paralela. Assim é possível evitar o modelo cascata e permitir que todos consigam fazer tudo. É tipo um devops de geral.
+
+### Times pequenos, dedicados, juntos
+
+Separar em times pequenos mas juntos, para promover um maior engajamento. Colocar o time para trabalhar focado em coisas especificas.
+
+### Progresso é valor, não é só entregáveis
+
+PROGRESSO = Coisas que trazem benefícios para o usuário e para o negócio.
+
+### Times focados em problemas
+
+Time focado em problemas, colocando atenção no problema do usuário, buscando trazer mais benefícios para o cliente.
+
+### Remova o desperdício
+
+20% do esforço entrega 80% dos benefícios
+
+Não perca tempo com coisas que não vão ser útil para o usuário. Busque desafios para seu time, de forma que consigam ver que a tarefas que desempenham é importante e possui um propósito.
+
+- Evite fazer funcionalidade que não vale a pena ser desenvolvida
+
+### Pequenas entregas
+
+Entregas pequenas que geram valor. Evite trabalhar por muito tempo em uma funcionalidade sem valida-la com o usuário. Tal funcionalidade corre o risco de não ter uma boa aceitação do público.
+
+- Entrega pequenas ajudam a diminuir o risco do projeto.
+
+### Entrega continua
+
+Engaje o usuário com o seu time, dessa forma é possível ter um feed back de mercado o mais rápido possível, fazendo pequenas entregas continuamente.
+
+### Saia do prédio
+
+- É necessário saber oque o usuário está sentindo
+- É necessário observador o mundo da ótica do usuário
+- É necessário enter como o usuário trabalha e utiliza suas ferramentas
+- Teste as suas hipóteses com a realidade e não com suas crenças
+- Utilize sempre o contexto do usuário
+- Não trabalhe em algo que ninguém quer
+
+### Conhecimento compartilhado
+
+Trabalhe o conhecimento compartilhado, trabalhe para que todo o seu time entenda o problema. 
+
+Podem ajudar
+- Mapas de usuários
+- Blueprints
+- Design Sprints
+
+Gerar conhecimento compartilhado :3
+
+### Times nivelados sem rockstars
+
+Nivele a equipe. Um time nivelado cresce junto e avança junto.
+
+Quando se coloca um ninja e dois iniciantes na equipe, é bem certo que o ninja ficará com a maioria das tarefas, ficando assim sobrecarregado, enquanto as duas pessoas iniciantes ficam aguardando o ninja ensina-las :3
+
+Nesse cenário é mais viável montar dois times, um só com ninjas, e outro com iniciantes e um mentor.
+
+> Se lembre que somente um diamante pode pulir outro diamante.
+
+Quando a equipe está nivelada, o fluxo de trabalho flui melhor devido a melhor distribuição de tarefas e mais consenso técnico de acordo com os níveis.
+
+### Externalize o trabalho
+
+Busque maneiras que as pessoas possam externalizar suas ideias. Compartilhar ideias e objetivos é necessário para que a equipe veja sentido no trabalho e busquem juntos as melhores soluções, pois se não externalizar, colaboradores não verão sentido naquilo que estão trabalhando.
+
+Isso deve ser implementado no dia a dia, o ambiente deve ser propicio a externalização de ideias
+
+Coisas que podem ajudar
+- Quadros colaborativos
+- Painel de ideias
+
+Ambiente de trabalho inspirador
+
+### Criar > Analisar
+
+Criar é melhor do que analisar. As vezes ficamos tanto tempo apenas analisando a ideia que é muito mais viável fazer um mockup e validar com o usuário, para ver se faz sentido.
+
+- Valide que com o usuário @-@
+- Traga mais o usuário para o processo
+- Ter o feedback p mais rápido possível
+- Busque sempre o feedback antes de qualquer achismo
+
+### Apender antes de escalar
+
+Usuário é o centro, então antes de escalar, é necessário ter a validação do usuário.
+
+Valorize mais o conhecimento antes da expensão. Expandir um produto não validado por causar vários riscos.
+
+Escale o produto na medida que ele for evoluindo junto do usuário, dessa forma ele poderá crescer de uma maneira mais forte.
+
+### Permissão para falhar
+
+Se quer testar alguma coisa, é necessário ter o aval de erro :)
+
+Se você falha mais rápido você tem o sucesso mais rápido.
+
+Experimentação traz criatividade e criatividade trás soluções inovadoras.
+
+> Você pode falhar em uma ideia, é diferente de um produto mal feito com negligencia.
+
+### Saia do negócio de entregáveis
+
+O time deve focar em funcionalidades que trazem impacto para o cliente.
+
+Quando se cria um produto é necessário ter sua documentação de funcionalidades, isso sim é necessário.
+
+Se você conseguiu comunicar sua ideia, pronto! É isso que você precisa, não perca tempo passando toda essa etapa de comunicação de ideia para um photoshop bonito ou coisa do tipo. Isso não é oque vai resolver o problema do usuário. Foque em funcionalidades e posteriormente na documentação da regra de negócio para o cliente, isso sim gerará um valor verdadeiro para o cliente.
 
 # Referencias
 
