@@ -119,6 +119,22 @@
     - [Personas](#personas-1)
     - [Funcionalidades](#funcionalidades)
     - [Protótipos](#protótipos-1)
+  - [Design Colaborativo](#design-colaborativo)
+    - [Mudanças organizacionais](#mudanças-organizacionais)
+      - [Roles](#roles)
+      - [New skills for UX Designers](#new-skills-for-ux-designers)
+      - [Cross-functioal teams](#cross-functioal-teams)
+      - [Small teams](#small-teams)
+      - [Workspace](#workspace)
+      - [No more heroes](#no-more-heroes)
+      - [No more BDUF](#no-more-bduf)
+      - [Speed first, aesthetics second](#speed-first-aesthetics-second)
+      - [Value problem solving](#value-problem-solving)
+      - [UX Debt](#ux-debt)
+      - [Deliverable business](#deliverable-business)
+      - [Documentation standards](#documentation-standards)
+      - [Be realistic about environment](#be-realistic-about-environment)
+      - [Managing Up and Out](#managing-up-and-out)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -1715,6 +1731,103 @@ Contra
 - Consome muito tempo comparado aos outros
 - Há problema de tentar melhorar o código antes de avaliar com usuários
 - Atualizações demanda muito tempo
+
+## Design Colaborativo
+
+DESIGN IQ
+
+- 10 min descoberta
+- 10 min definição
+- 8 min para 2 soluções
+- 5 min entrega
+
+Por onde começar?
+
+- Definição do problema e restrição
+- Geração de ideias individuais
+- Apresentação e critica
+- Repetir e refinar
+- Geração de ideias do time
+
+### Mudanças organizacionais
+
+> As pessoas precisam ter a sensação de dono
+
+#### Roles
+
+Mudanças de papeis e atribuições para competências
+
+- Coloca o pessoal nos papeis corretos :3
+
+#### New skills for UX Designers
+
+Designers abrem o processo de design
+
+Designers assumer papel de liderança
+
+> Eles não ficam responsáveis pelo 'design' apenas
+
+#### Cross-functioal teams
+
+Todos no mesmo nível. Ninguém responde por ninguém
+
+#### Small teams
+
+Grandes times são ineficientes. Two pizzas team (Amazon)
+
+4 a 7 pessoas
+
+#### Workspace
+
+Sem barreiras, espaços para geração de ideias.
+
+#### No more heroes
+
+Busca pelo ooohhh cuidado com eles!
+
+> Nivela esse pessoal ai :3
+
+#### No more BDUF
+
+De novo: Sem big design up front
+
+#### Speed first, aesthetics second
+
+Não se preocupe com entregáveis de UX. Preocupe-se com:
+- Design
+- Workflow
+- Performance
+- Valor
+
+#### Value problem solving
+
+Recompense as soluções com melhores indicadores
+
+#### UX Debt
+
+Há débito técnico e também há débito de UX.
+
+Viva com ele! Enfrente Ele!
+
+#### Deliverable business
+
+Cliente perto de você. Você perto do cliente.
+
+> Mantenha o cliente perto de você
+
+#### Documentation standards
+
+A documentação vem depois de pronto, e não antes. Escreva as regras depois de pronto!
+
+#### Be realistic about environment
+
+Desculpas ao invés de permissão! Você precisa de uma chance!
+
+#### Managing Up and Out
+
+O prejuízo no roadmap deve ser compensado pela comunicação constante do progresso.
+
+![](images/centralized_ux_team.png)
 
 # Referencias
 
