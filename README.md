@@ -135,6 +135,11 @@
       - [Documentation standards](#documentation-standards)
       - [Be realistic about environment](#be-realistic-about-environment)
       - [Managing Up and Out](#managing-up-and-out)
+  - [Design sprints](#design-sprints)
+    - [Preparação](#preparação-1)
+    - [Checklist de sucesso](#checklist-de-sucesso)
+    - [Etapas design sprint](#etapas-design-sprint)
+    - [Documento com dia a dia para uma Design Sprint](#documento-com-dia-a-dia-para-uma-design-sprint)
 - [Referencias](#referencias)
 - [Conteúdos para validar posteriormente](#conteúdos-para-validar-posteriormente)
 
@@ -1828,6 +1833,82 @@ Desculpas ao invés de permissão! Você precisa de uma chance!
 O prejuízo no roadmap deve ser compensado pela comunicação constante do progresso.
 
 ![](images/centralized_ux_team.png)
+
+## Design sprints
+
+![](images/design-sprint.png)
+
+> Gerar aprendizado mais rapidamente, sem precisar construir os produtos
+
+### Preparação
+
+**Sprint master (Moderador)**
+
+- Identificação do desafio
+- Convocação do time e os talentos
+- Organização de 5 dias de trabalho
+  
+> Ouvir todos sobre a solução. Para melhores soluções
+
+1 dia de trabalho para cada dia de planejamento
+
+![](images/sprint%20master.webp)
+
+> Server para gerar consenso e aprendizados. 
+
+### Checklist de sucesso
+
+### Etapas design sprint
+
+*Entendimento*
+
+- Remover dúvidas do produto
+- Necessidades dos usuários
+- Possibilidades técnicas viáveis
+
+*Definição*
+
+- Definir objetivos do produto ou funcionalidades
+- (Posicionamento, jornada do usuário, métricas)
+
+*Divergência*
+
+- Criar quantas soluções forem possíveis
+  
+*Decisão*
+
+- Refinar, escolher
+
+*Prototipação*
+
+- Wireframes, mockups, protótipos (Entregáveis)
+
+*Validação*
+
+- Testar a ideia com usuários reais
+
+### Documento com dia a dia para uma Design Sprint
+
+[](files/Design+Sprint+Checklist.docx)
+
+
+[Apresentação exemplo - Inicio de apresentação](files/SPRINT+pt-br+kickoff.pptx)
+
+[Livro para aprofundar o conhecimento](https://www.amazon.com.br/Sprint-M%C3%A9todo-Google-Testar-Aplicar/dp/8551001523/ref=asc_df_8551001523/?tag=googleshopp00-20&linkCode=df0&hvadid=379748610448&hvpos=&hvnetw=g&hvrand=7783119954148455073&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031478&hvtargid=pla-460804272437&psc=1)
+
+[Sprint day - **Segunda**](https://www.youtube.com/watch?v=7zOBMxRYJ7I&ab_channel=GV)
+
+[Sprint day - **Terça**](https://www.youtube.com/watch?v=_ITJ5lAXQhg&ab_channel=GV)
+
+[Sprint day - **Quarta**](https://www.youtube.com/watch?v=7BKBFOOKbNo&ab_channel=GV)
+
+[Sprint day - **Quinta**](https://www.youtube.com/watch?v=IGcwFV76t7o&ab_channel=GV)
+
+[Sprint day - **Sexta**](https://www.youtube.com/watch?v=jQmBuKN10VY&ab_channel=GV)
+
+[5 passos para entrevistas](https://www.youtube.com/watch?v=U9ZG19XTbd4&ab_channel=GV)
+
+> Sprint < Scrum < Design Thinking
 
 # Referencias
 
